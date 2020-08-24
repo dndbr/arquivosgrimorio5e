@@ -1,0 +1,3113 @@
+{
+   "fonte": "PHB",
+   "versao": 1.0,
+   "dados": [
+      {
+         "nome": "Acalmar Emoções",
+         "id": 10003,
+         "original": "Calm Emotions",
+         "fonte": "Livro do Jogador, p. 211 (PHB, p. 221)",
+         "versao": 3
+      },
+      {
+         "nome": "Presságio",
+         "id": 10004,
+         "original": "Divination",
+         "fonte": "Livro do Jogador, p. 270 (PHB, p. 234)",
+         "versao": 2
+      },
+      {
+         "nome": "Auxílio",
+         "id": 10006,
+         "original": "Aid",
+         "fonte": "Livro do Jogador, p. 218 (PHB, p. 211)",
+         "versao": 3
+      },
+      {
+         "nome": "Alarme",
+         "id": 10007,
+         "original": "Alarm",
+         "fonte": "Livro do Jogador, p. 211 (PHB, p. 211)",
+         "versao": 3
+      },
+      {
+         "nome": "Aliado Extraplanar",
+         "id": 10008,
+         "original": "Planar Ally",
+         "fonte": "Livro do Jogador, p. 212 (PHB, p. 265)",
+         "versao": 2
+      },
+      {
+         "nome": "Aljava Veloz",
+         "id": 10009,
+         "original": "Swift Quiver",
+         "nivel": 5,
+         "escola": "Transmutação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Toque",
+         "componentes": " V S M (uma aljava contendo ao menos uma munição)",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Guardião",
+         "subclasses": "",
+         "descricao": "Você transmuta a sua aljava de forma que ela produza um suprimento interminável de munição não-mágica, que materializa-se na sua mão conforme você a toca.<br>&emsp;Enquanto a magia durar, você pode usar uma ação bônus, em cada um dos seus turnos, para fazer dois ataques com qualquer arma que utilize munição desta aljava. Cada vez que você realiza esse ataque à distância, sua aljava magicamente repõe a munição utilizada, criando uma versão não-mágica similar. Qualquer munição criada por esta magia se desintegra ao término desta. Se a aljava sair de sua posse, a magia termina.",
+         "fonte": "Livro do Jogador, p. 212 (PHB, p. 279)",
+         "srd": false,
+         "versao": 2
+      },
+      {
+         "nome": "Alterar-se",
+         "id": 10010,
+         "original": "Alter Self",
+         "fonte": "Livro do Jogador, p. 212 (PHB, p. 211)",
+         "versao": 3
+      },
+      {
+         "nome": "Metamorfose",
+         "id": 10011,
+         "original": "Shapechange",
+         "fonte": "Livro do Jogador, p. 258 (PHB, p. 274)",
+         "versao": 2
+      },
+      {
+         "nome": "Amigos",
+         "id": 10012,
+         "original": "Friends",
+         "nivel": 0,
+         "escola": "Encantamento",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal",
+         "componentes": " S M (uma pequena quantidade de maquiagem aplicada a rosto enquanto esta magia é conjurada)",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bardo, Bruxo, Feiticeiro, Mago",
+         "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Enquanto a magia durar, você tem vantagem em todos os testes de Carisma dirigidos a uma criatura, à sua escolha e que não seja hostil a você. Ao término da magia, a criatura percebe que você usou magia para influenciar o humor dela, tornando-se hostil a você. Uma criatura propensa à violência pode lhe atacar. Criaturas não violentas podem buscar outras formas de retaliação (a critério do DM), dependendo da natureza da sua interação com ela.",
+         "fonte": "Livro do Jogador, p. 212 (PHB, p. 244)",
+         "srd": false,
+         "versao": 2
+      },
+      {
+         "nome": "Amizade Animal",
+         "id": 10013,
+         "original": "Animal Friendship",
+         "fonte": "Livro do Jogador, p. 213 (PHB, p. 212)",
+         "versao": 3
+      },
+      {
+         "nome": "Crescimento de Plantas",
+         "id": 10014,
+         "original": "Plant Growth",
+         "fonte": "Livro do Jogador, p. 230 (PHB, p. 266)",
+         "versao": 2
+      },
+      {
+         "nome": "Caminhar Sobre as Águas",
+         "id": 10015,
+         "original": "Water Walk",
+         "fonte": "Livro do Jogador, p. 221 (PHB, p. 287)",
+         "versao": 2
+      },
+      {
+         "nome": "Animar Mortos",
+         "id": 10016,
+         "original": "Animate Dead",
+         "fonte": "Livro do Jogador, p. 213 (PHB, p. 212)",
+         "versao": 2
+      },
+      {
+         "nome": "Animar Objetos",
+         "id": 10017,
+         "original": "Animate Objects",
+         "fonte": "Livro do Jogador, p. 213 (PHB, p. 213)",
+         "versao": 2
+      },
+      {
+         "nome": "Antipatia/Simpatia",
+         "id": 10018,
+         "original": "Antipathy/Sympathy",
+         "fonte": "Livro do Jogador, p. 214 (PHB, p. 214)",
+         "versao": 2
+      },
+      {
+         "nome": "Aprimorar Atributo",
+         "id": 10019,
+         "original": "Enhance Ability",
+         "fonte": "Livro do Jogador, p. 214 (PHB, p. 237)",
+         "versao": 3
+      },
+      {
+         "nome": "Aprisionamento",
+         "id": 10020,
+         "original": "Imprisonment",
+         "fonte": "Livro do Jogador, p. 215 (PHB, p. 252)",
+         "versao": 2
+      },
+      {
+         "nome": "Arca Secreta de Leomund",
+         "id": 10021,
+         "original": "Leomund's Secret Chest",
+         "fonte": "Livro do Jogador, p. 215 (PHB, p. 254)",
+         "versao": 2
+      },
+      {
+         "nome": "Arma Elemental",
+         "id": 10022,
+         "original": "Elemental Weapon",
+         "nivel": 3,
+         "escola": "Transmutação",
+         "tempo": "Uma ação",
+         "alcance": "Toque",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Até uma hora",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Artífice, Paladino",
+         "subclasses": "Bruxo (Lâmina Maldita), Clérigo (Forja)",
+         "descricao": "Uma arma não-mágica tocada por você transforma-se numa arma mágica. Escolha um dos seguinte tipos de dano: ácido, elétrico, ígneo, gélido ou trovejante. Enquanto a magia durar, a arma tem um bônus de +1 nas jogadas de ataque e causa 1d4 pontos de dano adicional, do tipo escolhido, ao acertar.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 5º ou 6º círculos, o bônus para as jogadas de ataque aumenta para +2 e o dano extra sobe para 2d4. Quando você usar um espaço de magia de 7º círculo, o bônus aumenta para +3 e o dano adicional para 3d4.",
+         "fonte": "Livro do Jogador, p. 215 (PHB, p. 237)",
+         "srd": false,
+         "roll": "1d4",
+         "versao": 4
+      },
+      {
+         "nome": "Arma Espiritual",
+         "id": 10023,
+         "original": "Spiritual Weapon",
+         "fonte": "Livro do Jogador, p. 216 (PHB, p. 278)",
+         "versao": 3
+      },
+      {
+         "nome": "Arma Mágica",
+         "id": 10024,
+         "original": "Magic Weapon",
+         "fonte": "Livro do Jogador, p. 216 (PHB, p. 257)",
+         "versao": 3
+      },
+      {
+         "nome": "Armadura Arcana",
+         "id": 10026,
+         "original": "Mage Armor",
+         "fonte": "Livro do Jogador, p. 216 (PHB, p. 256)",
+         "versao": 3
+      },
+      {
+         "nome": "Armadura de Agathys",
+         "id": 10027,
+         "original": "Armor of Agathys",
+         "nivel": 1,
+         "escola": "Abjuração",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal",
+         "componentes": " V S M (um copo de água)",
+         "materiaispagos": false,
+         "duracao": "Uma hora",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Bruxo",
+         "subclasses": "Paladino (Conquista)",
+         "descricao": "Uma força mágica protetora envolve-o, manifestando-se como um frio espectral que cobre você e o seu equipamento. Você ganha 5 pontos de vida temporários enquanto a magia durar. Se uma criatura atingi-lo com um ataque corpo a corpo enquanto você possuir esses pontos de vida temporários, a criatura sofre 5 pontos de dano gélido.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, tanto os pontos de vida temporários quanto o dano gélido aumentam em 5 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 216 (PHB, p. 215)",
+         "srd": false,
+         "versao": 5
+      },
+      {
+         "nome": "Arrombar",
+         "id": 10028,
+         "original": "Knock",
+         "fonte": "Livro do Jogador, p. 216 (PHB, p. 254)",
+         "versao": 3
+      },
+      {
+         "nome": "Assassino Fantasmagórico",
+         "id": 10029,
+         "original": "Phantasmal Killer",
+         "fonte": "Livro do Jogador, p. 216 (PHB, p. 265)",
+         "versao": 2
+      },
+      {
+         "nome": "Golpe Certeiro",
+         "id": 10030,
+         "original": "True Strike",
+         "fonte": "Livro do Jogador, p. 246 (PHB, p. 284)",
+         "versao": 2
+      },
+      {
+         "nome": "Mau Olhado",
+         "id": 10031,
+         "original": "Eyebite",
+         "fonte": "Livro do Jogador, p. 257 (PHB, p. 238)",
+         "versao": 2
+      },
+      {
+         "nome": "Augúrio",
+         "id": 10033,
+         "original": "Augury",
+         "fonte": "Livro do Jogador, p. 217 (PHB, p. 215)",
+         "versao": 3
+      },
+      {
+         "nome": "Aumentar/Reduzir",
+         "id": 10034,
+         "original": "Enlarge/Reduce",
+         "fonte": "Livro do Jogador, p. 218 (PHB, p. 237)",
+         "versao": 3
+      },
+      {
+         "nome": "Aura de Pureza",
+         "id": 10035,
+         "original": "Aura of Purity",
+         "nivel": 4,
+         "escola": "Abjuração",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal (raio de 9m [30 ft.])",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 10 minutos",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "",
+         "descricao": "Uma aura de energia purificante se irradia de você em um raio de 9 metros [30 ft.]. Enquanto a magia durar, a aura, centrada em você, move-se para onde quer que você vá. Cada criatura não hostil na área (incluindo você) não pode ficar doente, tem resistência a dano venenoso e ganha vantagem em salvaguardas contra efeitos que causem as seguintes condições: amedrontado, atordoado, cego, enfeitiçado, envenenado, paralisado e surdo.",
+         "fonte": "Livro do Jogador, p. 218 (PHB, p. 216)",
+         "srd": false,
+         "versao": 3
+      },
+      {
+         "nome": "Aura de Devoção",
+         "id": 10036,
+         "original": "Aura of Life",
+         "nivel": 4,
+         "escola": "Abjuração",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal (raio de 9m [30 ft.])",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 10 minutos",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "",
+         "descricao": "Uma aura de energia de preservação vital se irradia de você num raio de 9 metros [30 ft.]. Enquanto a magia durar, a aura, centrada em você, move-se para onde quer que você vá. Cada criatura não hostil dentro da aura (incluindo você) tem resistência a dano necrótico, e seus valores de pontos de vida máximos não podem ser reduzidos. Além disso, uma criatura viva não hostil e que esteja com 0 ponto de vida, recupera 1 ponto de vida ao iniciar um turno dentro da aura.",
+         "fonte": "Livro do Jogador, p. 218 (PHB, p. 216)",
+         "srd": false,
+         "versao": 3
+      },
+      {
+         "nome": "Aura de Vitalidade",
+         "id": 10037,
+         "original": "Aura of Vitality",
+         "nivel": 3,
+         "escola": "Evocação",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal (raio de 9m [30 ft.])",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "",
+         "descricao": "Uma aura de energia curativa se irradia de você em um raio de 9 metros [30 ft.]. Enquanto a magia durar, a aura, centrada em você, move-se para onde quer que você vá. Você pode usar uma ação bônus para fazer com que uma criatura dentro da aura (incluindo você) recupere 2d6 pontos de vida.",
+         "fonte": "Livro do Jogador, p. 218 (PHB, p. 216)",
+         "srd": false,
+         "roll": "2d6",
+         "versao": 3
+      },
+      {
+         "nome": "Aura Mágica de Nystul",
+         "id": 10038,
+         "original": "Nystul's Magic Aura",
+         "fonte": "Livro do Jogador, p. 218 (PHB, p. 263)",
+         "versao": 3
+      },
+      {
+         "nome": "Aura Sagrada",
+         "id": 10039,
+         "original": "Holy Aura",
+         "fonte": "Livro do Jogador, p. 218 (PHB, p. 251)",
+         "versao": 2
+      },
+      {
+         "nome": "Favor Divino",
+         "id": 10041,
+         "original": "Divine Favor",
+         "fonte": "Livro do Jogador, p. 243 (PHB, p. 234)",
+         "versao": 3
+      },
+      {
+         "nome": "Banimento",
+         "id": 10043,
+         "original": "Banishment",
+         "fonte": "Livro do Jogador, p. 219 (PHB, p. 217)",
+         "versao": 2
+      },
+      {
+         "nome": "Banquete de Heróis",
+         "id": 10044,
+         "original": "Heroes' Feast",
+         "fonte": "Livro do Jogador, p. 219 (PHB, p. 250)",
+         "versao": 2
+      },
+      {
+         "nome": "Barreira de Lâminas",
+         "id": 10045,
+         "original": "Blade Barrier",
+         "fonte": "Livro do Jogador, p. 219 (PHB, p. 218)",
+         "versao": 2
+      },
+      {
+         "nome": "Bênção",
+         "id": 10046,
+         "original": "Bless",
+         "fonte": "Livro do Jogador, p. 219 (PHB, p. 219)",
+         "versao": 3
+      },
+      {
+         "nome": "Boca Encantada",
+         "id": 10047,
+         "original": "Magic Mouth",
+         "fonte": "Livro do Jogador, p. 219 (PHB, p. 257)",
+         "versao": 3
+      },
+      {
+         "nome": "Bola de Fogo",
+         "id": 10048,
+         "original": "Fireball",
+         "fonte": "Livro do Jogador, p. 220 (PHB, p. 241)",
+         "versao": 2
+      },
+      {
+         "nome": "Bola de Fogo Adiável",
+         "id": 10049,
+         "original": "Delayed Blast Fireball",
+         "fonte": "Livro do Jogador, p. 220 (PHB, p. 230)",
+         "versao": 2
+      },
+      {
+         "nome": "Bom Fruto",
+         "id": 10050,
+         "original": "Goodberry",
+         "fonte": "Livro do Jogador, p. 221 (PHB, p. 246)",
+         "versao": 3
+      },
+      {
+         "nome": "Bordão Místico",
+         "id": 10051,
+         "original": "Shillelagh",
+         "fonte": "Livro do Jogador, p. 221 (PHB, p. 275)",
+         "versao": 2
+      },
+      {
+         "nome": "Braços de Hadar",
+         "id": 10053,
+         "original": "Arms of Hadar",
+         "nivel": 1,
+         "escola": "Invocação",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal (raio de 3m [10 ft.])",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Bruxo",
+         "subclasses": "",
+         "descricao": "Você invoca o poder de Hadar, a Fome Sombria. Gavinhas de energia negra irrompem de você e golpeiam todas as criaturas a até 3 metros [10 ft.] de distância. Cada criatura na área deve fazer uma salvaguarda de Força. Se falhar, o alvo sofre 2d6 pontos de dano necrótico e não pode ter reações até o próximo turno dele. Em caso de sucesso, a criatura sofre metade do dano e não sofre nenhum outro efeito.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, o dano aumenta em 1d6 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 221 (PHB, p. 215)",
+         "srd": false,
+         "roll": "2d6",
+         "versao": 5
+      },
+      {
+         "nome": "Danação",
+         "id": 10054,
+         "original": "Hex",
+         "nivel": 1,
+         "escola": "Encantamento",
+         "tempo": "Uma ação bônus",
+         "alcance": "27m [90 ft.]",
+         "componentes": " V S M (o olho petrificado de um tritão)",
+         "materiaispagos": false,
+         "duracao": "Até uma hora",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bruxo",
+         "subclasses": "",
+         "descricao": "Você transmite uma doença virulenta a uma criatura à sua vista e dentro do alcance da magia. Enquanto a magia durar, você causa 1d6 pontos de dano necrótico adicionais ao alvo sempre que atingi-lo com um ataque. Além disso, escolha um atributo ao conjurar esta magia. O alvo passa a ter desvantagem em testes de atributo feitos com o atributo escolhido.<br>&emsp;Se os pontos de vida do alvo forem reduzidos a 0 antes do final da magia, você pode usar sua ação bônus, em um turno subsequente seu, para amaldiçoar uma nova criatura.<br>&emsp;Uma magia <i>Remover Maldição</i> conjurada no alvo encerra esta magia mais cedo.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia com um espaço de magia de 3º ou 4º círculo, você pode manter a sua concentração por até 8 horas. Ao usar um espaço de magia de 5º círculo ou maior, você pode manter a sua concentração na magia por até 24 horas.",
+         "fonte": "Livro do Jogador, p. 233 (PHB, p. 251)",
+         "srd": false,
+         "roll": "1d6",
+         "versao": 5
+      },
+      {
+         "nome": "Passo Arbóreo",
+         "id": 10055,
+         "original": "Tree Stride",
+         "fonte": "Livro do Jogador, p. 266 (PHB, p. 283)",
+         "versao": 2
+      },
+      {
+         "nome": "Caminhar no Vento",
+         "id": 10056,
+         "original": "Wind Walk",
+         "fonte": "Livro do Jogador, p. 221 (PHB, p. 288)",
+         "versao": 2
+      },
+      {
+         "nome": "Campo Antimagia",
+         "id": 10057,
+         "original": "Antimagic Field",
+         "fonte": "Livro do Jogador, p. 221 (PHB, p. 213)",
+         "versao": 2
+      },
+      {
+         "nome": "De Carne Para Pedra",
+         "id": 10058,
+         "original": "Flesh to Stone",
+         "fonte": "Livro do Jogador, p. 234 (PHB, p. 243)",
+         "versao": 2
+      },
+      {
+         "nome": "Cativar",
+         "id": 10060,
+         "original": "Enthrall",
+         "fonte": "Livro do Jogador, p. 222 (PHB, p. 238)",
+         "versao": 3
+      },
+      {
+         "nome": "Cegueira/Surdez",
+         "id": 10062,
+         "original": "Blindness/Deafness",
+         "fonte": "Livro do Jogador, p. 222 (PHB, p. 219)",
+         "versao": 3
+      },
+      {
+         "nome": "Chama Contínua",
+         "id": 10064,
+         "original": "Continual Flame",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 227)",
+         "versao": 3
+      },
+      {
+         "nome": "Chama Sagrada",
+         "id": 10065,
+         "original": "Sacred Flame",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 272)",
+         "versao": 2
+      },
+      {
+         "nome": "Chicote de Espinhos",
+         "id": 10067,
+         "original": "Thorn Whip",
+         "nivel": 0,
+         "escola": "Transmutação",
+         "tempo": "Uma ação",
+         "alcance": "9m [30 ft.]",
+         "componentes": " V S M (o caule de uma planta com espinhos)",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Artífice, Druida",
+         "subclasses": "Clérigo (Natureza)",
+         "descricao": "Você cria um longo chicote parecido com uma videira e coberto de espinhos, que golpeia uma criatura no alcance ao seu comando. Faça um ataque mágico corpo a corpo contra o alvo. Se o ataque acertar, a criatura sofre 1d6 pontos de dano perfurante; e se a criatura for Grande ou menor, você a puxa até 3 metros [10 ft.] mais para perto de você.<br>&emsp;O dano desta magia aumenta em 1d6 quando você alcança o 5º nível (2d6), o 11º nível (3d6) e o 17º nível (4d6).",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 282)",
+         "srd": false,
+         "roll": "1d6",
+         "versao": 4
+      },
+      {
+         "nome": "Chuva de Meteoros",
+         "id": 10069,
+         "original": "Meteor Swarm",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 259)",
+         "versao": 2
+      },
+      {
+         "nome": "Clarividência",
+         "id": 10070,
+         "original": "Clairvoyance",
+         "fonte": "Livro do Jogador, p. 224 (PHB, p. 222)",
+         "versao": 2
+      },
+      {
+         "nome": "Clone",
+         "id": 10071,
+         "original": "Clone",
+         "fonte": "Livro do Jogador, p. 224 (PHB, p. 222)",
+         "versao": 2
+      },
+      {
+         "nome": "Coluna de Chamas",
+         "id": 10072,
+         "original": "Flame Strike",
+         "fonte": "Livro do Jogador, p. 224 (PHB, p. 242)",
+         "versao": 2
+      },
+      {
+         "nome": "Comando",
+         "id": 10073,
+         "original": "Command",
+         "fonte": "Livro do Jogador, p. 225 (PHB, p. 223)",
+         "versao": 3
+      },
+      {
+         "nome": "Compreender Idiomas",
+         "id": 10074,
+         "original": "Comprehend Languages",
+         "fonte": "Livro do Jogador, p. 225 (PHB, p. 224)",
+         "versao": 3
+      },
+      {
+         "nome": "Compulsão",
+         "id": 10075,
+         "original": "Compulsion",
+         "fonte": "Livro do Jogador, p. 225 (PHB, p. 224)",
+         "versao": 2
+      },
+      {
+         "nome": "Comunhão",
+         "id": 10076,
+         "original": "Commune",
+         "fonte": "Livro do Jogador, p. 225 (PHB, p. 223)",
+         "versao": 2
+      },
+      {
+         "nome": "Comunhão com a Natureza",
+         "id": 10077,
+         "original": "Commune with Nature",
+         "fonte": "Livro do Jogador, p. 225 (PHB, p. 224)",
+         "versao": 2
+      },
+      {
+         "nome": "Cone de Frio",
+         "id": 10078,
+         "original": "Cone of Cold",
+         "fonte": "Livro do Jogador, p. 226 (PHB, p. 224)",
+         "versao": 2
+      },
+      {
+         "nome": "Confusão",
+         "id": 10079,
+         "original": "Confusion",
+         "fonte": "Livro do Jogador, p. 226 (PHB, p. 224)",
+         "versao": 2
+      },
+      {
+         "nome": "Lendas e Histórias",
+         "id": 10080,
+         "original": "Legend Lore",
+         "fonte": "Livro do Jogador, p. 252 (PHB, p. 254)",
+         "versao": 2
+      },
+      {
+         "nome": "Conjurar Animais",
+         "id": 10081,
+         "original": "Conjure Animals",
+         "fonte": "Livro do Jogador, p. 250 (PHB, p. 225)",
+         "versao": 2
+      },
+      {
+         "nome": "Invocar Celestial",
+         "id": 10082,
+         "original": "Conjure Celestial",
+         "fonte": "Livro do Jogador, p. 250 (PHB, p. 225)",
+         "versao": 2
+      },
+      {
+         "nome": "Invocar Elementais Menores",
+         "id": 10083,
+         "original": "Conjure Minor Elementals",
+         "fonte": "Livro do Jogador, p. 251 (PHB, p. 226)",
+         "versao": 2
+      },
+      {
+         "nome": "Invocar Elemental",
+         "id": 10084,
+         "original": "Conjure Elemental",
+         "fonte": "Livro do Jogador, p. 251 (PHB, p. 225)",
+         "versao": 2
+      },
+      {
+         "nome": "Invocar Feérico",
+         "id": 10085,
+         "original": "Conjure Fey",
+         "fonte": "Livro do Jogador, p. 251 (PHB, p. 226)",
+         "versao": 2
+      },
+      {
+         "nome": "Conjurar Rajada",
+         "id": 10086,
+         "original": "Conjure Barrage",
+         "nivel": 3,
+         "escola": "Invocação",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal (cone de 18m [60 ft.])",
+         "componentes": " V S M (uma peça de munição ou uma arma de arremesso)",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Guardião",
+         "subclasses": "",
+         "descricao": "Você arremessa uma arma não-mágica, ou dispara uma munição não-mágica no ar, criando um cone de armas idênticas que disparam adiante e então desaparecem. Cada criatura dentro do cone de 18 metros [60 ft.] deve fazer uma salvaguarda de Destreza. Se falhar, sofre 3d8 pontos de dano, ou metade do dano em caso de sucesso. O tipo do dano é o mesmo da arma ou munição usada como componente.",
+         "fonte": "Livro do Jogador, p. 250 (PHB, p. 225)",
+         "srd": false,
+         "roll": "3d8",
+         "versao": 5
+      },
+      {
+         "nome": "Conjurar Saraivada",
+         "id": 10087,
+         "original": "Conjure Volley",
+         "nivel": 5,
+         "escola": "Invocação",
+         "tempo": "Uma ação",
+         "alcance": "45m [150 ft.]",
+         "componentes": " V S M (uma peça de munição ou uma arma de arremesso)",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Guardião",
+         "subclasses": "",
+         "descricao": "Você escolhe um ponto dentro do alcance da magia e arremessa uma arma não-mágica, ou dispara uma munição não-mágica no ar. Centenas de duplicatas da munição ou da arma caem em uma torrente e então desaparecem. Cada criatura em um cilindro de 12 metros [40 ft.] de raio e 6 metros [20 ft.] de altura, centrado naquele ponto, deve fazer uma salvaguarda de Destreza. Se falhar, sofre 8d8 pontos de dano, ou metade do dano em caso de sucesso. O tipo do dano é o mesmo da arma ou munição usada como componente.",
+         "fonte": "Livro do Jogador, p. 251 (PHB, p. 226)",
+         "srd": false,
+         "roll": "8d8",
+         "versao": 4
+      },
+      {
+         "nome": "Invocar Seres da Floresta",
+         "id": 10088,
+         "original": "Conjure Woodland Beings",
+         "fonte": "Livro do Jogador, p. 251 (PHB, p. 226)",
+         "versao": 2
+      },
+      {
+         "nome": "Consagrar",
+         "id": 10089,
+         "original": "Hallow",
+         "fonte": "Livro do Jogador, p. 226 (PHB, p. 249)",
+         "versao": 3
+      },
+      {
+         "nome": "Reparar",
+         "id": 10090,
+         "original": "Mending",
+         "fonte": "Livro do Jogador, p. 276 (PHB, p. 259)",
+         "versao": 2
+      },
+      {
+         "nome": "Emaranhar",
+         "id": 10091,
+         "original": "Entangle",
+         "fonte": "Livro do Jogador, p. 239 (PHB, p. 238)",
+         "versao": 3
+      },
+      {
+         "nome": "Contato Extraplanar",
+         "id": 10092,
+         "original": "Contact Other Plane",
+         "fonte": "Livro do Jogador, p. 227 (PHB, p. 226)",
+         "versao": 2
+      },
+      {
+         "nome": "Contingência",
+         "id": 10093,
+         "original": "Contingency",
+         "fonte": "Livro do Jogador, p. 227 (PHB, p. 227)",
+         "versao": 2
+      },
+      {
+         "nome": "Contramagia",
+         "id": 10094,
+         "original": "Counterspell",
+         "fonte": "Livro do Jogador, p. 227 (PHB, p. 228)",
+         "versao": 2
+      },
+      {
+         "nome": "Controlar Água",
+         "id": 10095,
+         "original": "Control Water",
+         "fonte": "Livro do Jogador, p. 228 (PHB, p. 227)",
+         "versao": 2
+      },
+      {
+         "nome": "Controlar o Clima",
+         "id": 10097,
+         "original": "Control Weather",
+         "fonte": "Livro do Jogador, p. 228 (PHB, p. 228)",
+         "versao": 2
+      },
+      {
+         "nome": "Convocar Familiar",
+         "id": 10099,
+         "original": "Find Familiar",
+         "fonte": "Livro do Jogador, p. 229 (PHB, p. 240)",
+         "versao": 3
+      },
+      {
+         "nome": "Convocar Montaria",
+         "id": 10100,
+         "original": "Find Steed",
+         "fonte": "Livro do Jogador, p. 229 (PHB, p. 240)",
+         "versao": 3
+      },
+      {
+         "nome": "Convocar Relâmpagos",
+         "id": 10101,
+         "original": "Call Lightning",
+         "fonte": "Livro do Jogador, p. 229 (PHB, p. 220)",
+         "versao": 2
+      },
+      {
+         "nome": "Cordão de Flechas",
+         "id": 10102,
+         "original": "Cordon of Arrows",
+         "nivel": 2,
+         "escola": "Transmutação",
+         "tempo": "Uma ação",
+         "alcance": "1,5m [5 ft.]",
+         "componentes": " V S M (4 ou mais flechas ou virotes)",
+         "materiaispagos": false,
+         "duracao": "8 horas",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Guardião",
+         "subclasses": "",
+         "descricao": "Você planta quatro peças de munição não-mágica - flechas ou virotes de besta - no chão, dentro do alcance da magia, infundindo-as com magia para proteger uma área. Enquanto a magia durar, sempre que uma criatura que não seja você chegar a menos do que 9 metros [30 ft.] da munição pela primeira vez ou encerrar o próprio turno ali, uma peça da munição voa na tentativa de atingi-la. O alvo deve fazer uma salvaguarda de Destreza. Se falhar, sofre 1d6 pontos de dano perfurante, após o que, a munição é destruída. Esta magia se encerra quando não restarem mais munições.<br>&emsp;Ao conjurar esta magia, ela ignora quaisquer criaturas que você designar.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 3º círculo ou superior, a quantidade de munição que pode ser afetada aumenta em dois para cada círculo do espaço acima do 2º.",
+         "fonte": "Livro do Jogador, p. 230 (PHB, p. 228)",
+         "srd": false,
+         "roll": "1d6",
+         "versao": 4
+      },
+      {
+         "nome": "Coroa da Loucura",
+         "id": 10103,
+         "original": "Crown of Madness",
+         "nivel": 2,
+         "escola": "Encantamento",
+         "tempo": "Uma ação",
+         "alcance": "36m [120 ft.]",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bardo, Bruxo, Feiticeiro, Mago",
+         "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Escolha um humanoide à sua vista e dentro do alcance da magia. O alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria, ou fica enfeitiçado por você enquanto a magia durar. Uma coroa de ferro retorcido e irregular surge na cabeça, e loucura brilhante irradia dos olhos do alvo enquanto a magia durar.<br>&emsp;Em cada um dos próprios turnos e antes de se movimentar, o alvo enfeitiçado deve usar uma ação para realizar um ataque corpo a corpo contra uma criatura escolhida mentalmente por você, e que não seja ele mesmo. O alvo pode agir normalmente no turno caso você não escolha uma criatura ou se nenhuma estiver no alcance dele.<br>&emsp;Em seus turnos subsequentes, você deve usar uma ação para manter controle sobre o alvo, ou a magia se encerra. Enquanto estiver enfeitiçado, o alvo deve fazer uma salvaguarda de Sabedoria no início de cada um dos turnos dele. Em caso de sucesso, a magia se encerra.",
+         "fonte": "Livro do Jogador, p. 230 (PHB, p. 229)",
+         "srd": false,
+         "versao": 4
+      },
+      {
+         "nome": "Corrente de Relâmpagos",
+         "id": 10105,
+         "original": "Chain Lightning",
+         "fonte": "Livro do Jogador, p. 230 (PHB, p. 221)",
+         "versao": 2
+      },
+      {
+         "nome": "Crescer Espinhos",
+         "id": 10106,
+         "original": "Spike Growth",
+         "fonte": "Livro do Jogador, p. 230 (PHB, p. 277)",
+         "versao": 3
+      },
+      {
+         "nome": "Criar Comida e Água",
+         "id": 10107,
+         "original": "Create Food and Water",
+         "fonte": "Livro do Jogador, p. 231 (PHB, p. 229)",
+         "versao": 2
+      },
+      {
+         "nome": "Criar Chamas",
+         "id": 10108,
+         "original": "Produce Flame",
+         "fonte": "Livro do Jogador, p. 231 (PHB, p. 269)",
+         "versao": 2
+      },
+      {
+         "nome": "Criar Mortos-Vivos",
+         "id": 10111,
+         "original": "Create Undead",
+         "fonte": "Livro do Jogador, p. 231 (PHB, p. 229)",
+         "versao": 2
+      },
+      {
+         "nome": "Criar ou Destruir Água",
+         "id": 10112,
+         "original": "Create or Destroy Water",
+         "fonte": "Livro do Jogador, p. 231 (PHB, p. 229)",
+         "versao": 3
+      },
+      {
+         "nome": "Criar Passagem",
+         "id": 10113,
+         "original": "Passwall",
+         "fonte": "Livro do Jogador, p. 233 (PHB, p. 264)",
+         "versao": 2
+      },
+      {
+         "nome": "Criação",
+         "id": 10114,
+         "original": "Creation",
+         "fonte": "Livro do Jogador, p. 231 (PHB, p. 229)",
+         "versao": 2
+      },
+      {
+         "nome": "Cura Completa",
+         "id": 10115,
+         "original": "Heal",
+         "fonte": "Livro do Jogador, p. 233 (PHB, p. 250)",
+         "versao": 2
+      },
+      {
+         "nome": "Cura Completa em Massa",
+         "id": 10116,
+         "original": "Mass Heal",
+         "fonte": "Livro do Jogador, p. 233 (PHB, p. 258)",
+         "versao": 2
+      },
+      {
+         "nome": "Curar Ferimentos",
+         "id": 10117,
+         "original": "Cure Wounds",
+         "fonte": "Livro do Jogador, p. 233 (PHB, p. 230)",
+         "versao": 3
+      },
+      {
+         "nome": "Curar Ferimentos em Massa",
+         "id": 10118,
+         "original": "Mass Cure Wounds",
+         "fonte": "Livro do Jogador, p. 233 (PHB, p. 258)",
+         "versao": 2
+      },
+      {
+         "nome": "Cão Fiel de Mordenkainen",
+         "id": 10119,
+         "original": "Mordenkainen's Faithful Hound",
+         "fonte": "Livro do Jogador, p. 222 (PHB, p. 261)",
+         "versao": 2
+      },
+      {
+         "nome": "Círculo da Morte",
+         "id": 10120,
+         "original": "Circle of Death",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 221)",
+         "versao": 2
+      },
+      {
+         "nome": "Círculo de Poder",
+         "id": 10121,
+         "original": "Circle of Power",
+         "nivel": 5,
+         "escola": "Abjuração",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal (raio de 9m [30 ft.])",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 10 minutos",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "",
+         "descricao": "Uma energia divina irradia de você, distorcendo e difundindo energia mágica dentro de uma esfera com 9 metros de raio [30-foot radius]. Enquanto a magia durar, a esfera, centrada em você, move-se para onde quer que você vá. Por toda a duração, cada criatura amigável na área (incluindo você) tem vantagem nas salvaguardas contra magias e outros efeitos mágicos. Além disso, uma criatura afetada por esta magia não sofre dano algum caso seja bem-sucedida em uma salvaguarda feita contra uma magia ou efeito mágico que permita a ela fazer uma salvaguarda para sofrer metade do dano.",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 222)",
+         "srd": false,
+         "versao": 4
+      },
+      {
+         "nome": "Círculo de Teleporte",
+         "id": 10122,
+         "original": "Teleportation Circle",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 282)",
+         "versao": 2
+      },
+      {
+         "nome": "Círculo Mágico",
+         "id": 10123,
+         "original": "Magic Circle",
+         "fonte": "Livro do Jogador, p. 224 (PHB, p. 256)",
+         "versao": 2
+      },
+      {
+         "nome": "Cúpula Antivida",
+         "id": 10124,
+         "original": "Antilife Shell",
+         "fonte": "Livro do Jogador, p. 233 (PHB, p. 213)",
+         "versao": 2
+      },
+      {
+         "nome": "Dança Irresistível de Otto",
+         "id": 10125,
+         "original": "Otto's Irresistible Dance",
+         "fonte": "Livro do Jogador, p. 234 (PHB, p. 264)",
+         "versao": 2
+      },
+      {
+         "nome": "Dedo da Morte",
+         "id": 10127,
+         "original": "Finger of Death",
+         "fonte": "Livro do Jogador, p. 234 (PHB, p. 241)",
+         "versao": 2
+      },
+      {
+         "nome": "Desejo",
+         "id": 10128,
+         "original": "Wish",
+         "fonte": "Livro do Jogador, p. 234 (PHB, p. 288)",
+         "versao": 2
+      },
+      {
+         "nome": "Desintegrar",
+         "id": 10129,
+         "original": "Disintegrate",
+         "fonte": "Livro do Jogador, p. 235 (PHB, p. 233)",
+         "versao": 2
+      },
+      {
+         "nome": "Despedaçar",
+         "id": 10130,
+         "original": "Shatter",
+         "fonte": "Livro do Jogador, p. 235 (PHB, p. 275)",
+         "versao": 3
+      },
+      {
+         "nome": "Despertar",
+         "id": 10131,
+         "original": "Awaken",
+         "fonte": "Livro do Jogador, p. 235 (PHB, p. 216)",
+         "versao": 2
+      },
+      {
+         "nome": "Despistar",
+         "id": 10132,
+         "original": "Mislead",
+         "fonte": "Livro do Jogador, p. 235 (PHB, p. 260)",
+         "versao": 2
+      },
+      {
+         "nome": "Destruição Banidora",
+         "id": 10133,
+         "original": "Banishing Smite",
+         "nivel": 5,
+         "escola": "Abjuração",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "Bruxo (Lâmina Maldita)",
+         "descricao": "Na próxima vez que você acertar uma criatura com um ataque armado antes desta magia terminar, sua arma estala com energia, e o ataque causa 5d10 pontos de dano energético adicionais ao alvo. Além disso, se este ataque reduzir os pontos de vida do alvo a 50 ou menos, ele é banido. Caso o alvo seja nativo de um plano de existência diferente daquele no qual você está, o alvo desaparece, voltando para o próprio plano de origem. Se o alvo for nativo do plano em que você se encontra, ele é transportado para um semiplano inofensivo. Enquanto permanecer lá, fica incapacitado. Ele permanece banido enquanto a magia durar, quando, então, reaparece no espaço de onde partiu ou no espaço desocupado mais próximo, se o espaço original estiver ocupado.",
+         "fonte": "Livro do Jogador, p. 236 (PHB, p. 216)",
+         "srd": false,
+         "roll": "5d10",
+         "versao": 2
+      },
+      {
+         "nome": "Destruição Cegante",
+         "id": 10134,
+         "original": "Blinding Smite",
+         "nivel": 3,
+         "escola": "Evocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "",
+         "descricao": "Na próxima vez que você atingir uma criatura com uma arma de combate corpo a corpo no decorrer da duração desta magia, sua arma brilha com luz plena, e o ataque causa 3d8 pontos de dano radiante adicionais no alvo. Além disso, o alvo deve ser bem-sucedido em uma salvaguarda de Constituição ou fica cego enquanto a magia durar.<br>&emsp;Uma criatura cega por esta magia faz outra salvaguarda de Constituição ao final de cada um dos próprios turnos. Em caso de sucesso, a criatura não está mais cega.",
+         "fonte": "Livro do Jogador, p. 236 (PHB, p. 219)",
+         "srd": false,
+         "roll": "3d8",
+         "versao": 3
+      },
+      {
+         "nome": "Destruição Colérica",
+         "id": 10135,
+         "original": "Wrathful Smite",
+         "nivel": 1,
+         "escola": "Evocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "Bruxo (Lâmina Maldita)",
+         "descricao": "Enquanto a magia durar, seu próximo acerto num ataque com uma arma de combate corpo a corpo, causa 1d6 pontos de dano psíquico adicionais. Além disso, se o alvo for uma criatura, ela deve fazer uma salvaguarda de Sabedoria ou fica amedrontada enquanto a magia durar. Com uma ação, a criatura pode fazer um teste de Sabedoria contra a CD para evitar sua magia, endurecendo a própria determinação e encerrando os efeitos da magia sobre ela.",
+         "fonte": "Livro do Jogador, p. 236 (PHB, p. 289)",
+         "srd": false,
+         "roll": "1d6",
+         "versao": 4
+      },
+      {
+         "nome": "Destruição Atordoante",
+         "id": 10137,
+         "original": "Staggering Smite",
+         "nivel": 4,
+         "escola": "Evocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "Bruxo (Lâmina Maldita)",
+         "descricao": "Na próxima vez que você acertar uma criatura com um ataque com uma arma de combate corpo a corpo durante a duração da magia, sua arma atinge tanto o corpo quanto a mente, e o ataque causa 4d6 pontos de dano psíquico adicionais no alvo. O alvo deve fazer uma salvaguarda de Sabedoria. Se falhar, ele tem desvantagem em jogadas de ataque e testes de atributo, e não pode ter reações até o final do próximo turno dele.",
+         "fonte": "Livro do Jogador, p. 235 (PHB, p. 278)",
+         "srd": false,
+         "roll": "4d6",
+         "versao": 3
+      },
+      {
+         "nome": "Destruição Cauterizante",
+         "id": 10138,
+         "original": "Searing Smite",
+         "nivel": 1,
+         "escola": "Evocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "Clérigo (Forja)",
+         "descricao": "Na próxima vez que você acertar uma criatura com um ataque de arma de combate corpo a corpo durante a duração da magia, sua arma flameja com calor intenso, e o ataque causa 1d6 pontos de dano ígneo adicionais ao alvo, fazendo com que o alvo irrompa em chamas. No começo de cada um dos seus turnos, enquanto a magia durar, o alvo deve fazer uma salvaguarda de Constituição. Se falhar, sofre 1d6 pontos de dano ígneo. Em um sucesso, a magia se encerra. Se o alvo ou uma criatura no alcance de 1,5 metro [5 ft.] dele usar uma ação para apagar as chamas, ou se algum outro efeito extinguir as chamas (como o alvo ser submergido em água), a magia se encerra.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior; o dano aumenta em 1d6 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 236 (PHB, p. 274)",
+         "srd": false,
+         "roll": "1d6",
+         "versao": 5
+      },
+      {
+         "nome": "Destruição Estrondosa",
+         "id": 10139,
+         "original": "Thunderous Smite",
+         "nivel": 1,
+         "escola": "Evocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "",
+         "descricao": "Enquanto a magia durar, na primeira vez que você acertar um ataque com uma arma de combate corpo a corpo, sua arma ressoa com trovões que são audíveis a 90 metros [300 ft.] de você e causam 2d6 pontos de dano trovejante adicionais. Além disso, se o alvo for uma criatura, ela deve ser bem-sucedida em uma salvaguarda de Força ou é empurrada 3 metros [10 ft.] para longe de você e fica caída.",
+         "fonte": "Livro do Jogador, p. 236 (PHB, p. 282)",
+         "srd": false,
+         "roll": "2d6",
+         "versao": 5
+      },
+      {
+         "nome": "Detectar Magia",
+         "id": 10140,
+         "original": "Detect Magic",
+         "fonte": "Livro do Jogador, p. 236 (PHB, p. 231)",
+         "versao": 3
+      },
+      {
+         "nome": "Detectar o Bem e o Mal",
+         "id": 10141,
+         "original": "Detect Evil and Good",
+         "fonte": "Livro do Jogador, p. 236 (PHB, p. 231)",
+         "versao": 3
+      },
+      {
+         "nome": "Detectar Pensamentos",
+         "id": 10142,
+         "original": "Detect Thoughts",
+         "fonte": "Livro do Jogador, p. 237 (PHB, p. 231)",
+         "versao": 3
+      },
+      {
+         "nome": "Detectar Veneno e Doença",
+         "id": 10143,
+         "original": "Detect Poison and Disease",
+         "fonte": "Livro do Jogador, p. 237 (PHB, p. 231)",
+         "versao": 3
+      },
+      {
+         "nome": "Indetectável",
+         "id": 10145,
+         "original": "Nondetection",
+         "fonte": "Livro do Jogador, p. 249 (PHB, p. 263)",
+         "versao": 2
+      },
+      {
+         "nome": "Disco Flutuante de Tenser",
+         "id": 10146,
+         "original": "Tenser's Floating Disk",
+         "fonte": "Livro do Jogador, p. 237 (PHB, p. 282)",
+         "versao": 3
+      },
+      {
+         "nome": "Disfarçar-se",
+         "id": 10147,
+         "original": "Disguise Self",
+         "fonte": "Livro do Jogador, p. 237 (PHB, p. 233)",
+         "versao": 3
+      },
+      {
+         "nome": "Dissipar Magia",
+         "id": 10149,
+         "original": "Dispel Magic",
+         "fonte": "Livro do Jogador, p. 238 (PHB, p. 234)",
+         "versao": 2
+      },
+      {
+         "nome": "Dissipar o Bem e o Mal",
+         "id": 10150,
+         "original": "Dispel Evil and Good",
+         "fonte": "Livro do Jogador, p. 238 (PHB, p. 233)",
+         "versao": 2
+      },
+      {
+         "nome": "Moléstia",
+         "id": 10151,
+         "original": "Harm",
+         "fonte": "Livro do Jogador, p. 259 (PHB, p. 249)",
+         "versao": 2
+      },
+      {
+         "nome": "Dominar Fera",
+         "id": 10152,
+         "original": "Dominate Beast",
+         "fonte": "Livro do Jogador, p. 238 (PHB, p. 234)",
+         "versao": 2
+      },
+      {
+         "nome": "Dominar Monstro",
+         "id": 10153,
+         "original": "Dominate Monster",
+         "fonte": "Livro do Jogador, p. 238 (PHB, p. 235)",
+         "versao": 2
+      },
+      {
+         "nome": "Dominar Pessoa",
+         "id": 10154,
+         "original": "Dominate Person",
+         "fonte": "Livro do Jogador, p. 238 (PHB, p. 235)",
+         "versao": 2
+      },
+      {
+         "nome": "Arte Druídica",
+         "id": 10156,
+         "original": "Druidcraft",
+         "fonte": "Livro do Jogador, p. 216 (PHB, p. 236)",
+         "versao": 2
+      },
+      {
+         "nome": "Duelo Compelido",
+         "id": 10157,
+         "original": "Compelled Duel",
+         "nivel": 1,
+         "escola": "Encantamento",
+         "tempo": "Uma ação bônus",
+         "alcance": "9m [30 ft.]",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "",
+         "descricao": "Você tenta compelir uma criatura a um duelo. Uma criatura à sua vista deve fazer uma salvaguarda de Sabedoria. Se falhar, a criatura é atraída até você, compelida por sua demanda divina. Enquanto a magia durar, ela tem desvantagem em jogadas de ataque contra criaturas que não sejam você, e deve fazer uma salvaguarda de Sabedoria sempre que tentar se mover para um espaço que esteja a mais de 9 metros [30 ft.] de distância de você; se for bem-sucedida na salvaguarda, a magia não restringe os movimentos dela nesse turno.<br>&emsp;A magia se encerra caso você ataque qualquer outra criatura, conjure uma magia que afete uma criatura hostil diferente do alvo, caso uma criatura amigável a você cause dano ou conjure uma magia ofensiva ao alvo, ou caso você encerre seu turno a mais de 9 metros [30 ft.] do alvo.",
+         "fonte": "Livro do Jogador, p. 239 (PHB, p. 224)",
+         "srd": false,
+         "versao": 5
+      },
+      {
+         "nome": "Encarnação Fantasmagórica",
+         "id": 10158,
+         "original": "Weird",
+         "fonte": "Livro do Jogador, p. 239 (PHB, p. 288)",
+         "versao": 2
+      },
+      {
+         "nome": "Encontrar Armadilhas",
+         "id": 10159,
+         "original": "Find Traps",
+         "fonte": "Livro do Jogador, p. 239 (PHB, p. 241)",
+         "versao": 3
+      },
+      {
+         "nome": "Encontrar o Caminho",
+         "id": 10161,
+         "original": "Find the Path",
+         "fonte": "Livro do Jogador, p. 239 (PHB, p. 240)",
+         "versao": 2
+      },
+      {
+         "nome": "Enfeitiçar Pessoa",
+         "id": 10164,
+         "original": "Charm Person",
+         "fonte": "Livro do Jogador, p. 240 (PHB, p. 221)",
+         "versao": 3
+      },
+      {
+         "nome": "Enfraquecer Intelecto",
+         "id": 10165,
+         "original": "Feeblemind",
+         "fonte": "Livro do Jogador, p. 240 (PHB, p. 239)",
+         "versao": 2
+      },
+      {
+         "nome": "Remeter",
+         "id": 10166,
+         "original": "Sending",
+         "fonte": "Livro do Jogador, p. 276 (PHB, p. 274)",
+         "versao": 2
+      },
+      {
+         "nome": "Escrita Ilusória",
+         "id": 10169,
+         "original": "Illusory Script",
+         "fonte": "Livro do Jogador, p. 240 (PHB, p. 252)",
+         "versao": 3
+      },
+      {
+         "nome": "Égide",
+         "id": 10170,
+         "original": "Shield",
+         "fonte": "Livro do Jogador, p. 240 (PHB, p. 275)",
+         "versao": 4
+      },
+      {
+         "nome": "Escudo da Fé",
+         "id": 10171,
+         "original": "Shield of Faith",
+         "fonte": "Livro do Jogador, p. 241 (PHB, p. 275)",
+         "versao": 3
+      },
+      {
+         "nome": "Escudo Ardente",
+         "id": 10172,
+         "original": "Fire Shield",
+         "fonte": "Livro do Jogador, p. 240 (PHB, p. 242)",
+         "versao": 2
+      },
+      {
+         "nome": "Escuridão",
+         "id": 10173,
+         "original": "Darkness",
+         "fonte": "Livro do Jogador, p. 241 (PHB, p. 230)",
+         "versao": 3
+      },
+      {
+         "nome": "Esfera Congelante de Otiluke",
+         "id": 10176,
+         "original": "Otiluke's Freezing Sphere",
+         "fonte": "Livro do Jogador, p. 241 (PHB, p. 263)",
+         "versao": 2
+      },
+      {
+         "nome": "Esfera Flamejante",
+         "id": 10178,
+         "original": "Flaming Sphere",
+         "fonte": "Livro do Jogador, p. 241 (PHB, p. 242)",
+         "versao": 3
+      },
+      {
+         "nome": "Esfera Resiliente de Otiluke",
+         "id": 10179,
+         "original": "Otiluke's Resilient Sphere",
+         "fonte": "Livro do Jogador, p. 241 (PHB, p. 264)",
+         "versao": 2
+      },
+      {
+         "nome": "Espada de Mordenkainen",
+         "id": 10181,
+         "original": "Mordenkainen's Sword",
+         "fonte": "Livro do Jogador, p. 242 (PHB, p. 262)",
+         "versao": 2
+      },
+      {
+         "nome": "Bolha Ácida",
+         "id": 10183,
+         "original": "Acid Splash",
+         "fonte": "Livro do Jogador, p. 220 (PHB, p. 211)",
+         "versao": 2
+      },
+      {
+         "nome": "Guardiões Espirituais",
+         "id": 10185,
+         "original": "Spirit Guardians",
+         "fonte": "Livro do Jogador, p. 246 (PHB, p. 278)",
+         "versao": 5
+      },
+      {
+         "nome": "Esquentar Metal",
+         "id": 10186,
+         "original": "Heat Metal",
+         "fonte": "Livro do Jogador, p. 242 (PHB, p. 250)",
+         "versao": 3
+      },
+      {
+         "nome": "Acudir os Moribundos",
+         "id": 10187,
+         "original": "Spare the Dying",
+         "fonte": "Livro do Jogador, p. 211 (PHB, p. 277)",
+         "versao": 2
+      },
+      {
+         "nome": "Explosão Solar",
+         "id": 10189,
+         "original": "Sunburst",
+         "fonte": "Livro do Jogador, p. 242 (PHB, p. 279)",
+         "versao": 2
+      },
+      {
+         "nome": "Fabricar",
+         "id": 10190,
+         "original": "Fabricate",
+         "fonte": "Livro do Jogador, p. 243 (PHB, p. 239)",
+         "versao": 2
+      },
+      {
+         "nome": "Falar com Animais",
+         "id": 10192,
+         "original": "Speak with Animals",
+         "fonte": "Livro do Jogador, p. 243 (PHB, p. 277)",
+         "versao": 3
+      },
+      {
+         "nome": "Falar com Mortos",
+         "id": 10193,
+         "original": "Speak with Dead",
+         "fonte": "Livro do Jogador, p. 243 (PHB, p. 277)",
+         "versao": 2
+      },
+      {
+         "nome": "Falar com Plantas",
+         "id": 10194,
+         "original": "Speak with Plants",
+         "fonte": "Livro do Jogador, p. 243 (PHB, p. 277)",
+         "versao": 2
+      },
+      {
+         "nome": "Flecha Relâmpago",
+         "id": 10195,
+         "original": "Lightning Arrow",
+         "nivel": 3,
+         "escola": "Transmutação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Guardião",
+         "subclasses": "",
+         "descricao": "Enquanto esta magia durar, na próxima vez que você realizar um ataque à distância, a própria arma usada, caso seja um arma de arremesso, ou a munição dela, é transformada em um raio. Faça uma jogada de ataque normalmente. Caso acerte, ao invés do dano normal da arma, o alvo sofre 4d8 pontos de dano elétrico, ou metade do dano caso erre.<br>&emsp;Quer você tenha acertado ou não, cada criatura no alcance de 3 metros [10 ft.] do alvo deve fazer uma salvaguarda de Destreza. Cada criatura que falhar, sofre 2d8 pontos de dano elétrico, ou metade do dano em caso de sucesso.<br>&emsp;Após o ataque, a munição ou a arma utilizada, retornam, então, à sua forma original.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 4º círculo ou superior, o dano aumenta em 1d8 para cada círculo do espaço acima do 3º.",
+         "fonte": "Livro do Jogador, p. 244 (PHB, p. 255)",
+         "srd": false,
+         "roll": "4d8",
+         "versao": 4
+      },
+      {
+         "nome": "Flecha Ácida",
+         "id": 10196,
+         "original": "Melf's Acid Arrow",
+         "fonte": "Livro do Jogador, p. 243 (PHB, p. 259)",
+         "versao": 3
+      },
+      {
+         "nome": "Fogo das Fadas",
+         "id": 10198,
+         "original": "Faerie Fire",
+         "fonte": "Livro do Jogador, p. 244 (PHB, p. 239)",
+         "versao": 4
+      },
+      {
+         "nome": "Fome de Hadar",
+         "id": 10199,
+         "original": "Hunger of Hadar",
+         "nivel": 3,
+         "escola": "Invocação",
+         "tempo": "Uma ação",
+         "alcance": "45m [150 ft.]",
+         "componentes": " V S M (um tentáculo de polvo em conserva)",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bruxo",
+         "subclasses": "",
+         "descricao": "Você abre um portal para a escuridão entre as estrelas, uma região infestada de horrores desconhecidos. Uma esfera de escuridão e frio intenso com raio de 6 metros [20-foot radius] surge, centrada em um ponto no alcance da magia e permanece enquanto esta durar. Este vazio é preenchido com uma cacofonia de sussurros suaves e ruídos que podem ser ouvidos a até 9 metros [30 ft.] de distância. Nenhuma luz, mágica ou não, pode iluminar a área, e criaturas que estejam totalmente dentro da área ficam cegas.<br>&emsp;O vazio cria uma dobra no tecido do espaço e a área passa a ser considerada terreno difícil. Qualquer criatura que comece o próprio turno dentro da área sofre 2d6 pontos de dano gélido. Qualquer criatura que encerre o próprio turno dentro da área deve ser bem-sucedida em uma salvaguarda de Destreza. Se falhar, sofre 2d6 pontos de dano ácido enquanto tentáculos leitosos de outro mundo a agarram.",
+         "fonte": "Livro do Jogador, p. 244 (PHB, p. 251)",
+         "srd": false,
+         "roll": "2d6",
+         "versao": 4
+      },
+      {
+         "nome": "Simular Morte",
+         "id": 10200,
+         "original": "Feign Death",
+         "nivel": 3,
+         "escola": "Necromancia",
+         "tempo": "Uma ação",
+         "alcance": "Toque",
+         "componentes": " V S M (uma pitada de poeira de túmulo)",
+         "materiaispagos": false,
+         "duracao": "Uma hora",
+         "concentracao": false,
+         "ritual": true,
+         "classes": "Bardo, Clérigo, Druida, Mago",
+         "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Você toca uma criatura voluntária e a coloca em um estado cataléptico indistinguível da morte.<br>&emsp;O alvo aparenta estar morto para todas as inspeções externas e todas as magias usadas para determinar o estado dele, enquanto a magia durar, ou até você usar uma ação para tocá-lo e dispensar a magia. O alvo está cego, incapacitado, e com deslocamento reduzido para 0. Ele tem resistência a todos os tipos de dano, exceto dano psíquico.<br>&emsp;Se o alvo estiver doente ou envenenado quando você conjurar a magia, ou ficar doente ou envenenado enquanto estiver sob o efeito dela, a doença e o veneno não surtem efeito até a magia acabar.",
+         "fonte": "Livro do Jogador, p. 281 (PHB, p. 240)",
+         "srd": false,
+         "versao": 2
+      },
+      {
+         "nome": "Forma Etérea",
+         "id": 10201,
+         "original": "Etherealness",
+         "fonte": "Livro do Jogador, p. 244 (PHB, p. 238)",
+         "versao": 2
+      },
+      {
+         "nome": "Forma Gasosa",
+         "id": 10202,
+         "original": "Gaseous Form",
+         "fonte": "Livro do Jogador, p. 245 (PHB, p. 244)",
+         "versao": 2
+      },
+      {
+         "nome": "Formas Animais",
+         "id": 10203,
+         "original": "Animal Shapes",
+         "fonte": "Livro do Jogador, p. 245 (PHB, p. 212)",
+         "versao": 2
+      },
+      {
+         "nome": "Força Espectral",
+         "id": 10206,
+         "original": "Phantasmal Force",
+         "nivel": 2,
+         "escola": "Ilusão",
+         "tempo": "Uma ação",
+         "alcance": "18m [60 ft.]",
+         "componentes": " V S M (um pouco de lã)",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bardo, Feiticeiro, Mago",
+         "subclasses": "Bruxo (Arquifada), Bruxo (Grande Antigo), Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Você cria uma ilusão que se enraíza na mente de uma criatura à sua vista e dentro do alcance da magia. O alvo deve fazer uma salvaguarda de Inteligência. Se falhar, você cria um objeto, criatura ou outro fenômeno fantasmagórico visível, à sua escolha, que não seja maior do que um cubo de 3 metros [10-foot cube] e que é perceptível apenas pelo alvo, enquanto a magia durar. Essa magia não tem efeito sobre mortos-vivos ou constructos.<br>&emsp;O fantasma pode incluir som, temperatura, e outros estímulos, também apenas evidentes para a criatura.<br>&emsp;O alvo pode usar uma reação para examinar o fantasma com um teste de Inteligência (Investigação) contra a CD para evitar sua magia. Se o teste for bem-sucedido, o alvo percebe que o fantasma é uma ilusão, e a magia se encerra.<br>&emsp;Enquanto a magia durar, o alvo trata o fantasma como se fosse real. O alvo racionaliza quaisquer resultados ilógicos de interações com o fantasma. Por exemplo, um alvo que esteja tentando atravessar uma ponte fantasma sobre um abismo cai assim que pisa na ponte. Caso sobreviva à queda, o alvo ainda acredita na existência da ponte, e tenta achar alguma explicação para a própria queda - foi empurrado, escorregou, ou um forte vento o derrubou.<br>&emsp;Um alvo afetado está tão convencido da veracidade do fantasma que pode até mesmo sofrer dano da ilusão. Um fantasma criado na forma de uma criatura pode atacar o alvo. Da mesma forma, um fantasma criado na forma de chamas, poça de ácido ou lava pode queimar o alvo. A cada rodada, no seu turno, o fantasma causa 1d6 pontos de dano psíquico no alvo se este estiver na área ou a até 1,5 metros [5 ft.] do fantasma, desde que a ilusão seja de uma criatura ou de um perigo que poderia causar dano de alguma forma lógica, atacando, por exemplo. O alvo percebe o dano como sendo de um tipo apropriado à ilusão.",
+         "fonte": "Livro do Jogador, p. 244 (PHB, p. 264)",
+         "srd": false,
+         "roll": "1d6",
+         "versao": 4
+      },
+      {
+         "nome": "Glifo de Proteção",
+         "id": 10208,
+         "original": "Glyph of Warding",
+         "fonte": "Livro do Jogador, p. 245 (PHB, p. 245)",
+         "versao": 2
+      },
+      {
+         "nome": "Globo de Invulnerabilidade",
+         "id": 10209,
+         "original": "Globe of Invulnerability",
+         "fonte": "Livro do Jogador, p. 246 (PHB, p. 245)",
+         "versao": 2
+      },
+      {
+         "nome": "Luzes Dançantes",
+         "id": 10210,
+         "original": "Dancing Lights",
+         "fonte": "Livro do Jogador, p. 254 (PHB, p. 230)",
+         "versao": 2
+      },
+      {
+         "nome": "Golpe Constritor",
+         "id": 10211,
+         "original": "Ensnaring Strike",
+         "nivel": 1,
+         "escola": "Invocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Guardião",
+         "subclasses": "Paladino (Anciões)",
+         "descricao": "Na próxima vez que você acertar uma criatura com um ataque armado antes do final da magia, uma massa contorcida de vinhas espinhosas aparece no ponto de impacto. O alvo precisa fazer uma salvaguarda de Força. Se falhar, fica contido pelas vinhas mágicas, enquanto a magia durar; se for bem-sucedido, as vinhas murcham. Uma criatura de tamanho Grande ou maior tem vantagem nessa salvaguarda.<br>&emsp;Enquanto estiver contido, o alvo sofre 1d6 pontos de dano perfurante no começo de cada turno dele. Uma criatura contida pelas vinhas ou que possa tocá-las pode usar uma das próprias ações para fazer um teste de Força contra a CD para evitar a sua magia. Em caso de sucesso, o alvo fica livre.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, o dano aumenta em 1d6 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 246 (PHB, p. 237)",
+         "srd": false,
+         "roll": "1d6",
+         "versao": 5
+      },
+      {
+         "nome": "Defensor da Fé",
+         "id": 10215,
+         "original": "Guardian of Faith",
+         "fonte": "Livro do Jogador, p. 234 (PHB, p. 246)",
+         "versao": 2
+      },
+      {
+         "nome": "Heroísmo",
+         "id": 10217,
+         "original": "Heroism",
+         "fonte": "Livro do Jogador, p. 248 (PHB, p. 250)",
+         "versao": 3
+      },
+      {
+         "nome": "Indentificar",
+         "id": 10218,
+         "original": "Identify",
+         "fonte": "Livro do Jogador, p. 248 (PHB, p. 252)",
+         "versao": 3
+      },
+      {
+         "nome": "Línguas",
+         "id": 10219,
+         "original": "Tongues",
+         "fonte": "Livro do Jogador, p. 253 (PHB, p. 283)",
+         "versao": 2
+      },
+      {
+         "nome": "Ilusão Menor",
+         "id": 10220,
+         "original": "Minor Illusion",
+         "fonte": "Livro do Jogador, p. 248 (PHB, p. 260)",
+         "versao": 2
+      },
+      {
+         "nome": "Ilusão Programada",
+         "id": 10221,
+         "original": "Programmed Illusion",
+         "fonte": "Livro do Jogador, p. 248 (PHB, p. 269)",
+         "versao": 2
+      },
+      {
+         "nome": "Imagem Maior",
+         "id": 10222,
+         "original": "Major Image",
+         "fonte": "Livro do Jogador, p. 248 (PHB, p. 258)",
+         "versao": 2
+      },
+      {
+         "nome": "Imagem Silenciosa",
+         "id": 10223,
+         "original": "Silent Image",
+         "fonte": "Livro do Jogador, p. 249 (PHB, p. 276)",
+         "versao": 3
+      },
+      {
+         "nome": "Imobilizar Monstro",
+         "id": 10224,
+         "original": "Hold Monster",
+         "fonte": "Livro do Jogador, p. 249 (PHB, p. 251)",
+         "versao": 2
+      },
+      {
+         "nome": "Imobilizar Pessoa",
+         "id": 10225,
+         "original": "Hold Person",
+         "fonte": "Livro do Jogador, p. 249 (PHB, p. 251)",
+         "versao": 3
+      },
+      {
+         "nome": "Infligir Ferimentos",
+         "id": 10229,
+         "original": "Inflict Wounds",
+         "fonte": "Livro do Jogador, p. 249 (PHB, p. 253)",
+         "versao": 3
+      },
+      {
+         "nome": "Inseto Gigante",
+         "id": 10230,
+         "original": "Giant Insect",
+         "fonte": "Livro do Jogador, p. 249 (PHB, p. 245)",
+         "versao": 2
+      },
+      {
+         "nome": "Inverter a Gravidade",
+         "id": 10232,
+         "original": "Reverse Gravity",
+         "fonte": "Livro do Jogador, p. 250 (PHB, p. 272)",
+         "versao": 2
+      },
+      {
+         "nome": "Invisibilidade",
+         "id": 10233,
+         "original": "Invisibility",
+         "fonte": "Livro do Jogador, p. 250 (PHB, p. 254)",
+         "versao": 3
+      },
+      {
+         "nome": "Invisibilidade Maior",
+         "id": 10234,
+         "original": "Greater Invisibility",
+         "fonte": "Livro do Jogador, p. 250 (PHB, p. 246)",
+         "versao": 2
+      },
+      {
+         "nome": "Convocação Instantânea de Drawmij",
+         "id": 10237,
+         "original": "Drawmij's Instant Summons",
+         "fonte": "Livro do Jogador, p. 228 (PHB, p. 235)",
+         "versao": 2
+      },
+      {
+         "nome": "Refugiar",
+         "id": 10240,
+         "original": "Sequester",
+         "fonte": "Livro do Jogador, p. 276 (PHB, p. 274)",
+         "versao": 2
+      },
+      {
+         "nome": "Labirinto",
+         "id": 10241,
+         "original": "Maze",
+         "fonte": "Livro do Jogador, p. 252 (PHB, p. 258)",
+         "versao": 2
+      },
+      {
+         "nome": "Lentidão",
+         "id": 10243,
+         "original": "Slow",
+         "fonte": "Livro do Jogador, p. 252 (PHB, p. 277)",
+         "versao": 2
+      },
+      {
+         "nome": "Leque Cromático",
+         "id": 10244,
+         "original": "Color Spray",
+         "fonte": "Livro do Jogador, p. 252 (PHB, p. 222)",
+         "versao": 3
+      },
+      {
+         "nome": "Levitação",
+         "id": 10245,
+         "original": "Levitate",
+         "fonte": "Livro do Jogador, p. 253 (PHB, p. 255)",
+         "versao": 3
+      },
+      {
+         "nome": "Ligação Telepática de Rary",
+         "id": 10246,
+         "original": "Rary's Telepathic Bond",
+         "fonte": "Livro do Jogador, p. 253 (PHB, p. 270)",
+         "versao": 2
+      },
+      {
+         "nome": "Limpar a Mente",
+         "id": 10247,
+         "original": "Mind Blank",
+         "fonte": "Livro do Jogador, p. 253 (PHB, p. 259)",
+         "versao": 2
+      },
+      {
+         "nome": "Localizar Animais ou Plantas",
+         "id": 10248,
+         "original": "Locate Animals or Plants",
+         "fonte": "Livro do Jogador, p. 253 (PHB, p. 256)",
+         "versao": 3
+      },
+      {
+         "nome": "Localizar Criatura",
+         "id": 10249,
+         "original": "Locate Creature",
+         "fonte": "Livro do Jogador, p. 253 (PHB, p. 256)",
+         "versao": 2
+      },
+      {
+         "nome": "Localizar Objeto",
+         "id": 10250,
+         "original": "Locate Object",
+         "fonte": "Livro do Jogador, p. 254 (PHB, p. 256)",
+         "versao": 3
+      },
+      {
+         "nome": "Loquacidade",
+         "id": 10251,
+         "original": "Glibness",
+         "fonte": "Livro do Jogador, p. 254 (PHB, p. 245)",
+         "versao": 2
+      },
+      {
+         "nome": "Lufada de Vento",
+         "id": 10253,
+         "original": "Gust of Wind",
+         "fonte": "Livro do Jogador, p. 254 (PHB, p. 248)",
+         "versao": 3
+      },
+      {
+         "nome": "Luz",
+         "id": 10254,
+         "original": "Light",
+         "fonte": "Livro do Jogador, p. 254 (PHB, p. 255)",
+         "versao": 2
+      },
+      {
+         "nome": "Luz do Dia",
+         "id": 10255,
+         "original": "Daylight",
+         "fonte": "Livro do Jogador, p. 254 (PHB, p. 230)",
+         "versao": 2
+      },
+      {
+         "nome": "Lâmina Flamejante",
+         "id": 10256,
+         "original": "Flame Blade",
+         "fonte": "Livro do Jogador, p. 252 (PHB, p. 242)",
+         "versao": 3
+      },
+      {
+         "nome": "Malogro",
+         "id": 10258,
+         "original": "Blight",
+         "fonte": "Livro do Jogador, p. 254 (PHB, p. 219)",
+         "versao": 2
+      },
+      {
+         "nome": "Mansão Magnífica de Mordenkainen",
+         "id": 10259,
+         "original": "Mordenkainen's Magnificent Mansion",
+         "fonte": "Livro do Jogador, p. 255 (PHB, p. 261)",
+         "versao": 2
+      },
+      {
+         "nome": "Manto do Cruzado",
+         "id": 10264,
+         "original": "Crusader's Mantle",
+         "nivel": 3,
+         "escola": "Evocação",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "Clérigo (Guerra)",
+         "descricao": "Poder sagrado irradia de você em uma aura com um raio de 9 metros [30 ft.], despertando bravura em criaturas amigáveis. Enquanto a magia durar, a aura, centrada em você, move-se para onde quer que você vá. Enquanto estiver dentro da aura, cada criatura não hostil (incluindo você) causa 1d4 pontos de dano radiante adicionais ao acertar um ataque armado.",
+         "fonte": "Livro do Jogador, p. 255 (PHB, p. 230)",
+         "srd": false,
+         "roll": "1d4",
+         "versao": 2
+      },
+      {
+         "nome": "Marca da Punição",
+         "id": 10265,
+         "original": "Branding Smite",
+         "fonte": "Livro do Jogador, p. 256 (PHB, p. 219)",
+         "versao": 3
+      },
+      {
+         "nome": "Marca do Predador",
+         "id": 10266,
+         "original": "Hunter's Mark",
+         "fonte": "Livro do Jogador, p. 256 (PHB, p. 251)",
+         "versao": 3
+      },
+      {
+         "nome": "Medo",
+         "id": 10268,
+         "original": "Fear",
+         "fonte": "Livro do Jogador, p. 257 (PHB, p. 239)",
+         "versao": 2
+      },
+      {
+         "nome": "Mensageiro Animal",
+         "id": 10269,
+         "original": "Animal Messenger",
+         "fonte": "Livro do Jogador, p. 257 (PHB, p. 212)",
+         "versao": 3
+      },
+      {
+         "nome": "Mensagem",
+         "id": 10270,
+         "original": "Message",
+         "fonte": "Livro do Jogador, p. 257 (PHB, p. 259)",
+         "versao": 2
+      },
+      {
+         "nome": "Mesclar-se às Rochas",
+         "id": 10271,
+         "original": "Meld into Stone",
+         "fonte": "Livro do Jogador, p. 258 (PHB, p. 259)",
+         "versao": 2
+      },
+      {
+         "nome": "Polimorfia",
+         "id": 10272,
+         "original": "Polymorph",
+         "fonte": "Livro do Jogador, p. 267 (PHB, p. 266)",
+         "versao": 2
+      },
+      {
+         "nome": "Polimorfia Total",
+         "id": 10273,
+         "original": "True Polymorph",
+         "fonte": "Livro do Jogador, p. 268 (PHB, p. 283)",
+         "versao": 2
+      },
+      {
+         "nome": "Miragem Arcana",
+         "id": 10276,
+         "original": "Mirage Arcane",
+         "fonte": "Livro do Jogador, p. 258 (PHB, p. 260)",
+         "versao": 2
+      },
+      {
+         "nome": "Missão",
+         "id": 10277,
+         "original": "Geas",
+         "fonte": "Livro do Jogador, p. 258 (PHB, p. 244)",
+         "versao": 2
+      },
+      {
+         "nome": "Modificar Memória",
+         "id": 10278,
+         "original": "Modify Memory",
+         "fonte": "Livro do Jogador, p. 259 (PHB, p. 261)",
+         "versao": 2
+      },
+      {
+         "nome": "Moldar Rochas",
+         "id": 10279,
+         "original": "Stone Shape",
+         "fonte": "Livro do Jogador, p. 259 (PHB, p. 278)",
+         "versao": 2
+      },
+      {
+         "nome": "Montaria Fantasmagórica",
+         "id": 10282,
+         "original": "Phantom Steed",
+         "fonte": "Livro do Jogador, p. 259 (PHB, p. 265)",
+         "versao": 2
+      },
+      {
+         "nome": "Mover Terra",
+         "id": 10283,
+         "original": "Move Earth",
+         "fonte": "Livro do Jogador, p. 260 (PHB, p. 263)",
+         "versao": 2
+      },
+      {
+         "nome": "Movimentação Livre",
+         "id": 10284,
+         "original": "Freedom of Movement",
+         "fonte": "Livro do Jogador, p. 260 (PHB, p. 244)",
+         "versao": 2
+      },
+      {
+         "nome": "Muralha de Energia",
+         "id": 10286,
+         "original": "Wall of Force",
+         "fonte": "Livro do Jogador, p. 260 (PHB, p. 285)",
+         "versao": 2
+      },
+      {
+         "nome": "Muralha de Espinhos",
+         "id": 10287,
+         "original": "Wall of Thorns",
+         "fonte": "Livro do Jogador, p. 260 (PHB, p. 287)",
+         "versao": 2
+      },
+      {
+         "nome": "Muralha de Fogo",
+         "id": 10288,
+         "original": "Wall of Fire",
+         "fonte": "Livro do Jogador, p. 260 (PHB, p. 285)",
+         "versao": 2
+      },
+      {
+         "nome": "Muralha de Gelo",
+         "id": 10289,
+         "original": "Wall of Ice",
+         "fonte": "Livro do Jogador, p. 261 (PHB, p. 285)",
+         "versao": 2
+      },
+      {
+         "nome": "Muralha de Pedra",
+         "id": 10290,
+         "original": "Wall of Stone",
+         "fonte": "Livro do Jogador, p. 261 (PHB, p. 287)",
+         "versao": 2
+      },
+      {
+         "nome": "Muralha de Vento",
+         "id": 10291,
+         "original": "Wind Wall",
+         "fonte": "Livro do Jogador, p. 261 (PHB, p. 288)",
+         "versao": 2
+      },
+      {
+         "nome": "Muralha Prismática",
+         "id": 10293,
+         "original": "Prismatic Wall",
+         "fonte": "Livro do Jogador, p. 261 (PHB, p. 267)",
+         "versao": 2
+      },
+      {
+         "nome": "Mão de Bigby",
+         "id": 10295,
+         "original": "Bigby's Hand",
+         "fonte": "Livro do Jogador, p. 255 (PHB, p. 218)",
+         "versao": 2
+      },
+      {
+         "nome": "Mãos Flamejantes",
+         "id": 10296,
+         "original": "Burning Hands",
+         "fonte": "Livro do Jogador, p. 256 (PHB, p. 220)",
+         "versao": 3
+      },
+      {
+         "nome": "Mãos Mágicas",
+         "id": 10297,
+         "original": "Mage Hand",
+         "fonte": "Livro do Jogador, p. 256 (PHB, p. 256)",
+         "versao": 2
+      },
+      {
+         "nome": "Mísseis Mágicos",
+         "id": 10298,
+         "original": "Magic Missile",
+         "fonte": "Livro do Jogador, p. 259 (PHB, p. 257)",
+         "versao": 3
+      },
+      {
+         "nome": "Nevasca",
+         "id": 10299,
+         "original": "Sleet Storm",
+         "fonte": "Livro do Jogador, p. 262 (PHB, p. 276)",
+         "versao": 2
+      },
+      {
+         "nome": "Turvar",
+         "id": 10300,
+         "original": "Blur",
+         "fonte": "Livro do Jogador, p. 288 (PHB, p. 219)",
+         "versao": 3
+      },
+      {
+         "nome": "Nuvem de Adagas",
+         "id": 10301,
+         "original": "Cloud of Daggers",
+         "nivel": 2,
+         "escola": "Invocação",
+         "tempo": "Uma ação",
+         "alcance": "18m [60 ft.]",
+         "componentes": " V S M (um caco de vidro)",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bardo, Bruxo, Feiticeiro, Mago",
+         "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Você preenche o ar com adagas rodopiantes em um cubo de 1,5 metro de lado [5-foot cube], centrado em um ponto à sua escolha e dentro do alcance da magia. Uma criatura sofre 4d4 pontos de dano cortante quando entra na área da magia pela primeira vez, ou quando inicia o próprio turno ali.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 3º círculo ou superior, o dano aumenta em 2d4 para cada círculo do espaço acima do 2º.",
+         "fonte": "Livro do Jogador, p. 263 (PHB, p. 222)",
+         "srd": false,
+         "roll": "4d4",
+         "versao": 5
+      },
+      {
+         "nome": "Nuvem Incendiária",
+         "id": 10302,
+         "original": "Incendiary Cloud",
+         "fonte": "Livro do Jogador, p. 263 (PHB, p. 253)",
+         "versao": 2
+      },
+      {
+         "nome": "Nuvem Fétida",
+         "id": 10303,
+         "original": "Stinking Cloud",
+         "fonte": "Livro do Jogador, p. 263 (PHB, p. 278)",
+         "versao": 2
+      },
+      {
+         "nome": "Névoa Mortal",
+         "id": 10304,
+         "original": "Cloudkill",
+         "fonte": "Livro do Jogador, p. 262 (PHB, p. 222)",
+         "versao": 2
+      },
+      {
+         "nome": "Névoa Obscurecente",
+         "id": 10305,
+         "original": "Fog Cloud",
+         "fonte": "Livro do Jogador, p. 262 (PHB, p. 243)",
+         "versao": 3
+      },
+      {
+         "nome": "Olho Arcano",
+         "id": 10306,
+         "original": "Arcane Eye",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 214)",
+         "versao": 2
+      },
+      {
+         "nome": "Onda Destrutiva",
+         "id": 10307,
+         "original": "Destructive Wave",
+         "nivel": 5,
+         "escola": "Evocação",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal (raio de 9m [30 ft.])",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Paladino",
+         "subclasses": "Clérigo (Tempestade)",
+         "descricao": "Você golpeia o chão, criando uma explosão de energia divina que se desloca a partir de você. Cada criatura, à sua escolha em até 9 metros [30 ft.] de distância de você deve fazer uma salvaguarda de Constituição. Se falhar, sofre 5d6 pontos de dano trovejante e 5d6 pontos de dano radiante ou necrótico (à sua escolha), ficando caída. Uma criatura que seja bem-sucedida na salvaguarda sofre metade do dano e não fica caída.",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 231)",
+         "srd": false,
+         "roll": "5d6+5d6",
+         "versao": 4
+      },
+      {
+         "nome": "Onda Trovejante",
+         "id": 10308,
+         "original": "Thunderwave",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 282)",
+         "versao": 3
+      },
+      {
+         "nome": "Oração de Cura",
+         "id": 10309,
+         "original": "Prayer of Healing",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 267)",
+         "versao": 3
+      },
+      {
+         "nome": "Orbe Cromática",
+         "id": 10310,
+         "original": "Chromatic Orb",
+         "nivel": 1,
+         "escola": "Evocação",
+         "tempo": "Uma ação",
+         "alcance": "27m [90 ft.]",
+         "componentes": " V S M (um diamante cujo valor mínimo seja de 50 PO)",
+         "materiaispagos": true,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Feiticeiro, Mago",
+         "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Você lança uma esfera de energia de 10 centímetros de diâmetro [4-inch-diameter sphere] em uma criatura à sua vista e que esteja dentro do alcance da magia. Você escolhe o tipo de orbe: ácido, elétrico, ígneo, gélido, venenoso ou trovejante, e então faz um ataque mágico à distância contra o alvo. Se acertar, o alvo sofre 3d8 pontos de dano do tipo que você escolheu.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, o dano aumenta em 1d8 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 221)",
+         "srd": false,
+         "roll": "3d8",
+         "versao": 5
+      },
+      {
+         "nome": "Orientação",
+         "id": 10311,
+         "original": "Guidance",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 248)",
+         "versao": 2
+      },
+      {
+         "nome": "Padrão Hipnótico",
+         "id": 10313,
+         "original": "Hypnotic Pattern",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 252)",
+         "versao": 2
+      },
+      {
+         "nome": "Palavra Curativa",
+         "id": 10314,
+         "original": "Healing Word",
+         "fonte": "Livro do Jogador, p. 264 (PHB, p. 250)",
+         "versao": 3
+      },
+      {
+         "nome": "Palavra Curativa em Massa",
+         "id": 10315,
+         "original": "Mass Healing Word",
+         "fonte": "Livro do Jogador, p. 265 (PHB, p. 258)",
+         "versao": 2
+      },
+      {
+         "nome": "Palavra de Regresso",
+         "id": 10316,
+         "original": "Word of Recall",
+         "fonte": "Livro do Jogador, p. 265 (PHB, p. 289)",
+         "versao": 2
+      },
+      {
+         "nome": "Palavra Sagrada",
+         "id": 10317,
+         "original": "Divine Word",
+         "fonte": "Livro do Jogador, p. 265 (PHB, p. 234)",
+         "versao": 2
+      },
+      {
+         "nome": "Palavra de Poder: Atordoar",
+         "id": 10319,
+         "original": "Power Word Stun",
+         "fonte": "Livro do Jogador, p. 265 (PHB, p. 267)",
+         "versao": 2
+      },
+      {
+         "nome": "Palavra de Poder: Salvar",
+         "id": 10320,
+         "original": "Power Word Heal",
+         "nivel": 9,
+         "escola": "Evocação",
+         "tempo": "Uma ação",
+         "alcance": "Toque",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Bardo",
+         "subclasses": "",
+         "descricao": "Uma onda de energia curativa se derrama sobre a criatura que você toca. O alvo recupera todos os pontos de vida. Se o alvo estiver amedrontado, atordoado, enfeitiçado ou ' paralisado, a condição se encerra. Se o alvo estiver caído, ele pode usar uma reação para se levantar. Essa magia não tem efeito sobre mortos-vivos ou constructos.",
+         "fonte": "Livro do Jogador, p. 265 (PHB, p. 266)",
+         "srd": false,
+         "versao": 2
+      },
+      {
+         "nome": "Palavra de Poder: Matar",
+         "id": 10321,
+         "original": "Power Word Kill",
+         "fonte": "Livro do Jogador, p. 265 (PHB, p. 266)",
+         "versao": 2
+      },
+      {
+         "nome": "Parar o Tempo",
+         "id": 10323,
+         "original": "Time Stop",
+         "fonte": "Livro do Jogador, p. 265 (PHB, p. 283)",
+         "versao": 2
+      },
+      {
+         "nome": "Passo Nebuloso",
+         "id": 10326,
+         "original": "Misty Step",
+         "fonte": "Livro do Jogador, p. 266 (PHB, p. 260)",
+         "versao": 3
+      },
+      {
+         "nome": "Passos Largos",
+         "id": 10328,
+         "original": "Longstrider",
+         "fonte": "Livro do Jogador, p. 266 (PHB, p. 256)",
+         "versao": 3
+      },
+      {
+         "nome": "Passo sem Rastro",
+         "id": 10329,
+         "original": "Pass without Trace",
+         "fonte": "Livro do Jogador, p. 266 (PHB, p. 264)",
+         "versao": 3
+      },
+      {
+         "nome": "Escalada de Aranha",
+         "id": 10330,
+         "original": "Spider Climb",
+         "fonte": "Livro do Jogador, p. 240 (PHB, p. 277)",
+         "versao": 3
+      },
+      {
+         "nome": "Pele-rocha",
+         "id": 10332,
+         "original": "Stoneskin",
+         "fonte": "Livro do Jogador, p. 267 (PHB, p. 278)",
+         "versao": 2
+      },
+      {
+         "nome": "Pele-casca",
+         "id": 10333,
+         "original": "Barkskin",
+         "fonte": "Livro do Jogador, p. 267 (PHB, p. 217)",
+         "versao": 3
+      },
+      {
+         "nome": "Pequeno Refúgio de Leomund",
+         "id": 10334,
+         "original": "Leomund's Tiny Hut",
+         "fonte": "Livro do Jogador, p. 267 (PHB, p. 255)",
+         "versao": 2
+      },
+      {
+         "nome": "Perdição",
+         "id": 10336,
+         "original": "Bane",
+         "fonte": "Livro do Jogador, p. 267 (PHB, p. 216)",
+         "versao": 3
+      },
+      {
+         "nome": "Piscar",
+         "id": 10339,
+         "original": "Blink",
+         "fonte": "Livro do Jogador, p. 267 (PHB, p. 219)",
+         "versao": 2
+      },
+      {
+         "nome": "Porta Dimensional",
+         "id": 10340,
+         "original": "Dimension Door",
+         "fonte": "Livro do Jogador, p. 268 (PHB, p. 233)",
+         "versao": 2
+      },
+      {
+         "nome": "Portal",
+         "id": 10341,
+         "original": "Gate",
+         "fonte": "Livro do Jogador, p. 268 (PHB, p. 244)",
+         "versao": 2
+      },
+      {
+         "nome": "Portais Arcanos",
+         "id": 10342,
+         "original": "Arcane Gate",
+         "nivel": 6,
+         "escola": "Invocação",
+         "tempo": "Uma ação",
+         "alcance": "150m [500 ft.]",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Até 10 minutos",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bruxo, Feiticeiro, Mago",
+         "subclasses": "",
+         "descricao": "Você cria portais de teleporte interligados, que se mantêm abertos enquanto a magia durar. Escolha dois pontos no chão à sua vista, sendo o primeiro a até 3 metros [10 ft.] de você e o outro a até 150 metros [500 ft.]. Um portal circular, com 3 metros de diâmetro [10-foot diameter], se abre em cada ponto. Caso ele devesse se abrir em um espaço ocupado por uma criatura, a magia falha, e a conjuração é perdida.<br>&emsp;Os portais consistem em dois anéis dimensionais brilhantes cheios de névoa pairando perpendicularmente a centímetros do chão, nos pontos que você escolheu. Cada anel pode ser visto apenas de um lado (à sua escolha), que é o lado que funciona como entrada do portal.<br>&emsp;Qualquer criatura ou objeto que entrar em um dos portais sai no outro portal como se eles fossem adjacentes um ao outro; atravessar um portal pelo lado que não é a entrada não tem efeito algum. A névoa que enche cada portal é opaca e bloqueia a visão através dele. No seu turno, você pode girar os anéis com uma ação bônus para que os lados ativos estejam em uma direção diferente.",
+         "fonte": "Livro do Jogador, p. 268 (PHB, p. 214)",
+         "srd": false,
+         "versao": 3
+      },
+      {
+         "nome": "Contágio",
+         "id": 10343,
+         "original": "Contagion",
+         "fonte": "Livro do Jogador, p. 227 (PHB, p. 227)",
+         "versao": 2
+      },
+      {
+         "nome": "Praga de Insetos",
+         "id": 10344,
+         "original": "Insect Plague",
+         "fonte": "Livro do Jogador, p. 269 (PHB, p. 254)",
+         "versao": 2
+      },
+      {
+         "nome": "Prestidigitação Arcana",
+         "id": 10345,
+         "original": "Prestidigitation",
+         "fonte": "Livro do Jogador, p. 270 (PHB, p. 267)",
+         "versao": 3
+      },
+      {
+         "nome": "Cárcere de Energia",
+         "id": 10346,
+         "original": "Forcecage",
+         "fonte": "Livro do Jogador, p. 222 (PHB, p. 243)",
+         "versao": 2
+      },
+      {
+         "nome": "Proibição",
+         "id": 10348,
+         "original": "Forbiddance",
+         "fonte": "Livro do Jogador, p. 270 (PHB, p. 243)",
+         "versao": 2
+      },
+      {
+         "nome": "Projetar Imagem",
+         "id": 10349,
+         "original": "Project Image",
+         "fonte": "Livro do Jogador, p. 270 (PHB, p. 270)",
+         "versao": 2
+      },
+      {
+         "nome": "Projeção Astral",
+         "id": 10350,
+         "original": "Astral Projection",
+         "fonte": "Livro do Jogador, p. 270 (PHB, p. 215)",
+         "versao": 2
+      },
+      {
+         "nome": "Proteger Fortaleza",
+         "id": 10351,
+         "original": "Guards and Wards",
+         "fonte": "Livro do Jogador, p. 271 (PHB, p. 248)",
+         "versao": 2
+      },
+      {
+         "nome": "Proteção Contra Morte",
+         "id": 10352,
+         "original": "Death Ward",
+         "fonte": "Livro do Jogador, p. 271 (PHB, p. 230)",
+         "versao": 2
+      },
+      {
+         "nome": "Proteção Contra Energia",
+         "id": 10353,
+         "original": "Protection from Energy",
+         "fonte": "Livro do Jogador, p. 271 (PHB, p. 270)",
+         "versao": 2
+      },
+      {
+         "nome": "Proteção Contra Lâminas",
+         "id": 10354,
+         "original": "Blade Ward",
+         "nivel": 0,
+         "escola": "Abjuração",
+         "tempo": "Uma ação",
+         "alcance": "Pessoal",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Uma rodada",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Bardo, Bruxo, Feiticeiro, Mago",
+         "subclasses": "Clérigo (Arcano), Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Você estende a sua mão e traça um símbolo de proteção no ar. Até o final do seu próximo turno, você tem resistência contra dano contundente, cortante e perfurante causado por ataques armados.",
+         "fonte": "Livro do Jogador, p. 271 (PHB, p. 218)",
+         "srd": false,
+         "versao": 2
+      },
+      {
+         "nome": "Proteção Contra o Bem e o Mal",
+         "id": 10355,
+         "original": "Protection from Evil and Good",
+         "fonte": "Livro do Jogador, p. 271 (PHB, p. 270)",
+         "versao": 3
+      },
+      {
+         "nome": "Proteção Contra Veneno",
+         "id": 10356,
+         "original": "Protection from Poison",
+         "fonte": "Livro do Jogador, p. 271 (PHB, p. 270)",
+         "versao": 3
+      },
+      {
+         "nome": "Purificar Alimentos e Bebidas",
+         "id": 10358,
+         "original": "Purify Food and Drink",
+         "fonte": "Livro do Jogador, p. 272 (PHB, p. 270)",
+         "versao": 4
+      },
+      {
+         "nome": "Queda Suave",
+         "id": 10359,
+         "original": "Feather Fall",
+         "fonte": "Livro do Jogador, p. 272 (PHB, p. 239)",
+         "versao": 3
+      },
+      {
+         "nome": "Raio Nauseante",
+         "id": 10361,
+         "original": "Ray of Sickness",
+         "nivel": 1,
+         "escola": "Necromancia",
+         "tempo": "Uma ação",
+         "alcance": "18m [60 ft.]",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Feiticeiro, Mago",
+         "subclasses": "Bruxo (O Eterno), Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Um raio esverdeado de energia enojante irrompe na direção de uma criatura no alcance da magia. Faça um ataque mágico à distância contra o alvo. Se acertar, o alvo sofre 2d8 pontos de dano venenoso e deve fazer uma salvaguarda de Constituição. Se falhar, o alvo também estará envenenado até o final do seu próximo turno.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, o dano aumenta em 1d8 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 273 (PHB, p. 271)",
+         "srd": false,
+         "roll": "2d8",
+         "versao": 5
+      },
+      {
+         "nome": "Raio Ardente",
+         "id": 10362,
+         "original": "Scorching Ray",
+         "fonte": "Livro do Jogador, p. 272 (PHB, p. 273)",
+         "versao": 3
+      },
+      {
+         "nome": "Raio de Bruxa",
+         "id": 10363,
+         "original": "Witch Bolt",
+         "nivel": 1,
+         "escola": "Evocação",
+         "tempo": "Uma ação",
+         "alcance": "9m [30 ft.]",
+         "componentes": " V S M (um galho de uma árvore que foi atingido por um raio)",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Bruxo, Feiticeiro, Mago",
+         "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
+         "descricao": "Você lança um raio de energia azul crepitante em direção a uma criatura no alcance da magia, formando um arco elétrico contínuo entre você e o alvo. Faça um ataque mágico a distância contra o alvo. Se acertar, o alvo sofre 1d12 pontos de dano elétrico, e em cada um dos seus turnos, enquanto a magia durar, você pode usar uma ação para causar 1dl2 pontos de dano elétrico no alvo automaticamente. A magia se encerra se você usar a sua ação para fazer qualquer outra coisa. A magia também se encerra se o alvo sair do alcance da magia ou tiver cobertura total.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, o dano aumenta em 1d12 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 272 (PHB, p. 289)",
+         "srd": false,
+         "roll": "1d12",
+         "versao": 5
+      },
+      {
+         "nome": "Raio de Fogo",
+         "id": 10364,
+         "original": "Fire Bolt",
+         "fonte": "Livro do Jogador, p. 272 (PHB, p. 242)",
+         "versao": 2
+      },
+      {
+         "nome": "Raio de Gelo",
+         "id": 10365,
+         "original": "Ray of Frost",
+         "fonte": "Livro do Jogador, p. 272 (PHB, p. 271)",
+         "versao": 2
+      },
+      {
+         "nome": "Raio do Enfraquecimento",
+         "id": 10366,
+         "original": "Ray of Enfeeblement",
+         "fonte": "Livro do Jogador, p. 273 (PHB, p. 271)",
+         "versao": 3
+      },
+      {
+         "nome": "Raio Guia",
+         "id": 10367,
+         "original": "Guiding Bolt",
+         "fonte": "Livro do Jogador, p. 272 (PHB, p. 248)",
+         "versao": 3
+      },
+      {
+         "nome": "Raio Lunar",
+         "id": 10368,
+         "original": "Moonbeam",
+         "fonte": "Livro do Jogador, p. 273 (PHB, p. 261)",
+         "versao": 3
+      },
+      {
+         "nome": "Raio Solar",
+         "id": 10369,
+         "original": "Sunbeam",
+         "fonte": "Livro do Jogador, p. 273 (PHB, p. 279)",
+         "versao": 2
+      },
+      {
+         "nome": "Rajada de Veneno",
+         "id": 10371,
+         "original": "Poison Spray",
+         "fonte": "Livro do Jogador, p. 273 (PHB, p. 266)",
+         "versao": 2
+      },
+      {
+         "nome": "Raio Místico",
+         "id": 10372,
+         "original": "Eldritch Blast",
+         "fonte": "Livro do Jogador, p. 273 (PHB, p. 237)",
+         "versao": 2
+      },
+      {
+         "nome": "Rajada Prismática",
+         "id": 10373,
+         "original": "Prismatic Spray",
+         "fonte": "Livro do Jogador, p. 273 (PHB, p. 267)",
+         "versao": 2
+      },
+      {
+         "nome": "Receptáculo Arcano",
+         "id": 10374,
+         "original": "Magic Jar",
+         "fonte": "Livro do Jogador, p. 275 (PHB, p. 257)",
+         "versao": 2
+      },
+      {
+         "nome": "Retirada Acelerada",
+         "id": 10375,
+         "original": "Expeditious Retreat",
+         "fonte": "Livro do Jogador, p. 278 (PHB, p. 238)",
+         "versao": 3
+      },
+      {
+         "nome": "Reencarnar",
+         "id": 10377,
+         "original": "Reincarnate",
+         "fonte": "Livro do Jogador, p. 275 (PHB, p. 271)",
+         "versao": 2
+      },
+      {
+         "nome": "Reflexos",
+         "id": 10378,
+         "original": "Mirror Image",
+         "fonte": "Livro do Jogador, p. 276 (PHB, p. 260)",
+         "versao": 3
+      },
+      {
+         "nome": "Regeneração",
+         "id": 10379,
+         "original": "Regenerate",
+         "fonte": "Livro do Jogador, p. 276 (PHB, p. 271)",
+         "versao": 2
+      },
+      {
+         "nome": "Relâmpago",
+         "id": 10380,
+         "original": "Lightning Bolt",
+         "fonte": "Livro do Jogador, p. 276 (PHB, p. 255)",
+         "versao": 2
+      },
+      {
+         "nome": "Remover Maldição",
+         "id": 10381,
+         "original": "Remove Curse",
+         "fonte": "Livro do Jogador, p. 276 (PHB, p. 271)",
+         "versao": 2
+      },
+      {
+         "nome": "Repouso Tranquilo",
+         "id": 10382,
+         "original": "Gentle Repose",
+         "fonte": "Livro do Jogador, p. 277 (PHB, p. 245)",
+         "versao": 3
+      },
+      {
+         "nome": "Repreensão Diabólica",
+         "id": 10383,
+         "original": "Hellish Rebuke",
+         "fonte": "Livro do Jogador, p. 277 (PHB, p. 250)",
+         "versao": 3
+      },
+      {
+         "nome": "Resistência",
+         "id": 10384,
+         "original": "Resistance",
+         "fonte": "Livro do Jogador, p. 277 (PHB, p. 272)",
+         "versao": 2
+      },
+      {
+         "nome": "Respirar na Água",
+         "id": 10385,
+         "original": "Water Breathing",
+         "fonte": "Livro do Jogador, p. 277 (PHB, p. 287)",
+         "versao": 2
+      },
+      {
+         "nome": "Ressurreição",
+         "id": 10387,
+         "original": "Resurrection",
+         "fonte": "Livro do Jogador, p. 277 (PHB, p. 272)",
+         "versao": 2
+      },
+      {
+         "nome": "Ressurreição Verdadeira",
+         "id": 10388,
+         "original": "True Resurrection",
+         "fonte": "Livro do Jogador, p. 277 (PHB, p. 284)",
+         "versao": 2
+      },
+      {
+         "nome": "Restauração Maior",
+         "id": 10389,
+         "original": "Greater Restoration",
+         "fonte": "Livro do Jogador, p. 278 (PHB, p. 246)",
+         "versao": 2
+      },
+      {
+         "nome": "Restauração Menor",
+         "id": 10390,
+         "original": "Lesser Restoration",
+         "fonte": "Livro do Jogador, p. 278 (PHB, p. 255)",
+         "versao": 3
+      },
+      {
+         "nome": "Reviver os Mortos",
+         "id": 10391,
+         "original": "Raise Dead",
+         "fonte": "Livro do Jogador, p. 278 (PHB, p. 270)",
+         "versao": 2
+      },
+      {
+         "nome": "Revivificar",
+         "id": 10392,
+         "original": "Revivify",
+         "fonte": "Livro do Jogador, p. 278 (PHB, p. 272)",
+         "versao": 2
+      },
+      {
+         "nome": "Gargalhada Nefasta de Tasha",
+         "id": 10393,
+         "original": "Tasha's Hideous Laughter",
+         "fonte": "Livro do Jogador, p. 245 (PHB, p. 280)",
+         "versao": 3
+      },
+      {
+         "nome": "Rogar Maldição",
+         "id": 10394,
+         "original": "Bestow Curse",
+         "fonte": "Livro do Jogador, p. 278 (PHB, p. 218)",
+         "versao": 2
+      },
+      {
+         "nome": "Salto",
+         "id": 10395,
+         "original": "Jump",
+         "fonte": "Livro do Jogador, p. 278 (PHB, p. 254)",
+         "versao": 3
+      },
+      {
+         "nome": "Santuário",
+         "id": 10396,
+         "original": "Sanctuary",
+         "fonte": "Livro do Jogador, p. 279 (PHB, p. 272)",
+         "versao": 3
+      },
+      {
+         "nome": "Santuário Particular de Mordenkainen",
+         "id": 10397,
+         "original": "Mordenkainen's Private Sanctum",
+         "fonte": "Livro do Jogador, p. 279 (PHB, p. 262)",
+         "versao": 2
+      },
+      {
+         "nome": "Saraivada de Espinhos",
+         "id": 10398,
+         "original": "Hail of Thorns",
+         "nivel": 1,
+         "escola": "Invocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "Pessoal",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Guardião",
+         "subclasses": "",
+         "descricao": "Na próxima vez que você acertar uma criatura com um ataque feito com uma arma de combate à distância antes do fim da magia, esta magia criará uma chuva de espinhos que brota da sua arma ou munição. Além de sofrer os efeitos normais do ataque, tanto o alvo quanto cada criatura a até 1,5 metro [5 ft.] dele deve fazer uma salvaguarda de Destreza. Se falhar, sofre 1d10 pontos de dano perfurante, ou metade do dano, em caso de sucesso.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, o dano aumenta em 1d10 para cada círculo do espaço acima do 1º (até um máximo de 6d10).",
+         "fonte": "Livro do Jogador, p. 279 (PHB, p. 249)",
+         "srd": false,
+         "roll": "1d10",
+         "versao": 5
+      },
+      {
+         "nome": "Semiplano",
+         "id": 10400,
+         "original": "Demiplane",
+         "fonte": "Livro do Jogador, p. 279 (PHB, p. 231)",
+         "versao": 2
+      },
+      {
+         "nome": "Sentido Feral",
+         "id": 10401,
+         "original": "Beast Sense",
+         "nivel": 2,
+         "escola": "Adivinhação",
+         "tempo": "Uma ação",
+         "alcance": "Toque",
+         "componentes": " S ",
+         "materiaispagos": false,
+         "duracao": "Até uma hora",
+         "concentracao": true,
+         "ritual": true,
+         "classes": "Druida, Guardião",
+         "subclasses": "Bárbaro (Guerreiro Totêmico)",
+         "descricao": "Você toca uma fera voluntária. Enquanto a magia durar, você pode usar a sua ação para ver através dos olhos da fera e ouvir o que ela ouve, e continua a fazê-lo até usar sua ação para retornar aos seus sentidos normais. Enquanto estiver percebendo através dos sentidos da fera, você se beneficia de qualquer sentido especial que ela possua, passando a estar cego e surdo ao que está ao seu redor.",
+         "fonte": "Livro do Jogador, p. 279 (PHB, p. 217)",
+         "srd": false,
+         "versao": 3
+      },
+      {
+         "nome": "Servo Invisível",
+         "id": 10402,
+         "original": "Unseen Servant",
+         "fonte": "Livro do Jogador, p. 279 (PHB, p. 284)",
+         "versao": 4
+      },
+      {
+         "nome": "Sexto Sentido",
+         "id": 10403,
+         "original": "Foresight",
+         "fonte": "Livro do Jogador, p. 280 (PHB, p. 244)",
+         "versao": 2
+      },
+      {
+         "nome": "Silêncio",
+         "id": 10404,
+         "original": "Silence",
+         "fonte": "Livro do Jogador, p. 280 (PHB, p. 275)",
+         "versao": 3
+      },
+      {
+         "nome": "Similaridade",
+         "id": 10405,
+         "original": "Seeming",
+         "fonte": "Livro do Jogador, p. 280 (PHB, p. 274)",
+         "versao": 2
+      },
+      {
+         "nome": "Simulacro",
+         "id": 10406,
+         "original": "Simulacrum",
+         "fonte": "Livro do Jogador, p. 281 (PHB, p. 276)",
+         "versao": 2
+      },
+      {
+         "nome": "Sinal de Esperança",
+         "id": 10407,
+         "original": "Beacon of Hope",
+         "fonte": "Livro do Jogador, p. 281 (PHB, p. 217)",
+         "versao": 2
+      },
+      {
+         "nome": "Sonho",
+         "id": 10411,
+         "original": "Dream",
+         "fonte": "Livro do Jogador, p. 281 (PHB, p. 236)",
+         "versao": 2
+      },
+      {
+         "nome": "Sono",
+         "id": 10412,
+         "original": "Sleep",
+         "fonte": "Livro do Jogador, p. 282 (PHB, p. 276)",
+         "versao": 3
+      },
+      {
+         "nome": "Sugestão",
+         "id": 10413,
+         "original": "Suggestion",
+         "fonte": "Livro do Jogador, p. 282 (PHB, p. 279)",
+         "versao": 3
+      },
+      {
+         "nome": "Sugestão em Massa",
+         "id": 10414,
+         "original": "Mass Suggestion",
+         "fonte": "Livro do Jogador, p. 282 (PHB, p. 258)",
+         "versao": 2
+      },
+      {
+         "nome": "Sussurros Dissonantes",
+         "id": 10415,
+         "original": "Dissonant Whispers",
+         "nivel": 1,
+         "escola": "Encantamento",
+         "tempo": "Uma ação",
+         "alcance": "18m [60 ft.]",
+         "componentes": " V ",
+         "materiaispagos": false,
+         "duracao": "Instantânea",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Bardo",
+         "subclasses": "Bruxo (Grande Antigo)",
+         "descricao": "Você sussurra uma melodia dissonante que apenas uma criatura à sua escolha e dentro do alcance é capaz de ouvir, afligindo-a com terrível dor. O alvo deve fazer uma salvaguarda de Sabedoria. Se falhar, sofre 3d6 pontos de dano psíquico, devendo usar a própria reação imediatamente, caso esteja disponível, para se distanciar de você tanto quanto o deslocamento dele permita. A criatura não se dirige para terrenos ou áreas obviamente perigosas, tais como um incêndio ou um fosso. Em caso de sucesso, o alvo sofre apenas metade do dano, não precisando se afastar. Uma criatura surda é automaticamente bem-sucedida na salvaguarda.<br>&emsp;<b>Em Círculos Superiores.</b> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, o dano aumenta em 1d6 para cada círculo do espaço acima do 1º.",
+         "fonte": "Livro do Jogador, p. 282 (PHB, p. 234)",
+         "srd": false,
+         "roll": "3d6",
+         "versao": 5
+      },
+      {
+         "nome": "Símbolo",
+         "id": 10416,
+         "original": "Symbol",
+         "fonte": "Livro do Jogador, p. 280 (PHB, p. 280)",
+         "versao": 2
+      },
+      {
+         "nome": "Taumaturgia",
+         "id": 10417,
+         "original": "Thaumaturgy",
+         "fonte": "Livro do Jogador, p. 282 (PHB, p. 282)",
+         "versao": 2
+      },
+      {
+         "nome": "Teia",
+         "id": 10418,
+         "original": "Web",
+         "fonte": "Livro do Jogador, p. 283 (PHB, p. 287)",
+         "versao": 3
+      },
+      {
+         "nome": "Telecinese",
+         "id": 10419,
+         "original": "Telekinesis",
+         "fonte": "Livro do Jogador, p. 283 (PHB, p. 280)",
+         "versao": 2
+      },
+      {
+         "nome": "Telepatia",
+         "id": 10420,
+         "original": "Telepathy",
+         "nivel": 8,
+         "escola": "Evocação",
+         "tempo": "Uma ação",
+         "alcance": "Unlimited",
+         "componentes": " V S M (um par de anéis de prata ligados)",
+         "materiaispagos": false,
+         "duracao": "24 horas",
+         "concentracao": false,
+         "ritual": false,
+         "classes": "Mago",
+         "subclasses": "",
+         "descricao": "Você cria uma ligação telepática com uma criatura voluntária com quem já esteja familiarizado. O alvo deve estar no mesmo plano de existência que você. A magia se encerra se você ou o alvo não estiverem mais no mesmo plano.<br>&emsp;Enquanto a magia durar, você e o alvo podem compartilhar palavras, imagens, sons e outras mensagens sensoriais um com o outro através da ligação, e o alvo reconhece você como a criatura que está se comunicando com ele. A magia permite que uma criatura com um valor de Inteligência de pelo menos 1 entenda o significado de suas palavras e capte o sentido de mensagens sensoriais que você enviar para ela.",
+         "fonte": "Livro do Jogador, p. 283 (PHB, p. 281)",
+         "srd": false,
+         "versao": 2
+      },
+      {
+         "nome": "Teleporte",
+         "id": 10421,
+         "original": "Teleport",
+         "fonte": "Livro do Jogador, p. 283 (PHB, p. 281)",
+         "versao": 2
+      },
+      {
+         "nome": "Teleporte via Plantas",
+         "id": 10422,
+         "original": "Transport via Plants",
+         "fonte": "Livro do Jogador, p. 285 (PHB, p. 283)",
+         "versao": 2
+      },
+      {
+         "nome": "Tempestade da Vingança",
+         "id": 10423,
+         "original": "Storm of Vengeance",
+         "fonte": "Livro do Jogador, p. 285 (PHB, p. 279)",
+         "versao": 2
+      },
+      {
+         "nome": "Tempestade de Fogo",
+         "id": 10424,
+         "original": "Fire Storm",
+         "fonte": "Livro do Jogador, p. 285 (PHB, p. 242)",
+         "versao": 2
+      },
+      {
+         "nome": "Tempestade Glacial",
+         "id": 10425,
+         "original": "Ice Storm",
+         "fonte": "Livro do Jogador, p. 286 (PHB, p. 252)",
+         "versao": 2
+      },
+      {
+         "nome": "Tentáculos Negros de Evard",
+         "id": 10427,
+         "original": "Evard's Black Tentacles",
+         "fonte": "Livro do Jogador, p. 286 (PHB, p. 238)",
+         "versao": 2
+      },
+      {
+         "nome": "Terremoto",
+         "id": 10428,
+         "original": "Earthquake",
+         "fonte": "Livro do Jogador, p. 286 (PHB, p. 236)",
+         "versao": 2
+      },
+      {
+         "nome": "Terreno Alucinatório",
+         "id": 10429,
+         "original": "Hallucinatory Terrain",
+         "fonte": "Livro do Jogador, p. 286 (PHB, p. 249)",
+         "versao": 2
+      },
+      {
+         "nome": "Toque Necrótico",
+         "id": 10430,
+         "original": "Chill Touch",
+         "fonte": "Livro do Jogador, p. 287 (PHB, p. 221)",
+         "versao": 2
+      },
+      {
+         "nome": "Toque Chocante",
+         "id": 10431,
+         "original": "Shocking Grasp",
+         "fonte": "Livro do Jogador, p. 287 (PHB, p. 275)",
+         "versao": 2
+      },
+      {
+         "nome": "Toque Vampírico",
+         "id": 10432,
+         "original": "Vampiric Touch",
+         "fonte": "Livro do Jogador, p. 287 (PHB, p. 285)",
+         "versao": 2
+      },
+      {
+         "nome": "Tranca Arcana",
+         "id": 10433,
+         "original": "Arcane Lock",
+         "fonte": "Livro do Jogador, p. 287 (PHB, p. 215)",
+         "versao": 3
+      },
+      {
+         "nome": "Corda Extradimensional",
+         "id": 10438,
+         "original": "Rope Trick",
+         "fonte": "Livro do Jogador, p. 230 (PHB, p. 272)",
+         "versao": 3
+      },
+      {
+         "nome": "Tsunami",
+         "id": 10439,
+         "original": "Tsunami",
+         "nivel": 8,
+         "escola": "Invocação",
+         "tempo": "1 minuto",
+         "alcance": "Visual",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Até 6 rodadas",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Druida",
+         "subclasses": "",
+         "descricao": "Uma muralha de água surge em um ponto à sua escolha e no alcance da magia. Você pode fazer a muralha ter até 90 metros [300 ft.] de comprimento, 90 metros [300 ft.] de altura e 15 metros [50 ft.] de espessura. A muralha permanece enquanto a magia durar.<br>&emsp;Quando a muralha surge, cada criatura na área precisa fazer uma salvaguarda de Força. Se falhar, sofre 6d10 pontos de dano contundente, ou metade do dano em caso de sucesso.<br>&emsp;No começo de cada um dos seus turnos após o aparecimento da muralha, ela, junto com todas as criaturas dentro dela, se move a 15 metros [50 ft.] de distância de você. Qualquer criatura Grande ou menor dentro da muralha ou cujo espaço a muralha entre quando se mover deve ser bem-sucedida em uma salvaguarda de Força ou sofre 5d10 pontos de dano contundente. Uma criatura pode sofrer este dano apenas uma vez por rodada. No final do turno, a altura da muralha é reduzida em 15 metros [50 ft.] e o dano que as criaturas sofrem da magia em rodadas subsequentes é reduzido em 1d10. Quando a muralha atingir 0 metros de altura, a magia se encerra.<br>&emsp;Uma criatura apanhada pela muralha pode se mover nadando. Devido à força da onda, porém, a criatura deve fazer um teste de Força (Atletismo) contra a CD para evitar sua magia, podendo se mover, em caso de sucesso. Se ela falhar no teste, ela não pode se mover. Uma criatura que se mova para fora da área cai no chão.",
+         "fonte": "Livro do Jogador, p. 287 (PHB, p. 284)",
+         "srd": false,
+         "roll": [
+            "6d10",
+            "5d10",
+            "4d10",
+            "3d10",
+            "2d10",
+            "1d10"
+         ],
+         "versao": 4
+      },
+      {
+         "nome": "Celeridade",
+         "id": 10440,
+         "original": "Haste",
+         "fonte": "Livro do Jogador, p. 223 (PHB, p. 250)",
+         "versao": 2
+      },
+      {
+         "nome": "Ver o Invisível",
+         "id": 10443,
+         "original": "See Invisibility",
+         "fonte": "Livro do Jogador, p. 288 (PHB, p. 274)",
+         "versao": 3
+      },
+      {
+         "nome": "Transição Planar",
+         "id": 10444,
+         "original": "Plane Shift",
+         "fonte": "Livro do Jogador, p. 287 (PHB, p. 266)",
+         "versao": 2
+      },
+      {
+         "nome": "Vidência",
+         "id": 10445,
+         "original": "Scrying",
+         "fonte": "Livro do Jogador, p. 288 (PHB, p. 273)",
+         "versao": 2
+      },
+      {
+         "nome": "Vinha Agarradora",
+         "id": 10446,
+         "original": "Grasping Vine",
+         "nivel": 4,
+         "escola": "Invocação",
+         "tempo": "Uma ação bônus",
+         "alcance": "9m [30 ft.]",
+         "componentes": " V S ",
+         "materiaispagos": false,
+         "duracao": "Até 1 minuto",
+         "concentracao": true,
+         "ritual": false,
+         "classes": "Druida, Guardião",
+         "subclasses": "Clérigo (Natureza)",
+         "descricao": "Você conjura uma vinha que brota do chão em um espaço desocupado à sua escolha, à sua vista e no alcance da magia. Ao conjurar esta magia, você pode direcionar a vinha para atacar uma criatura à sua vista e que esteja a até 9 metros [30 ft.] dela. O alvo deve ser bem-sucedido em uma salvaguarda de Destreza ou será puxado 6 metros [20 ft.] na direção da vinha.<br>&emsp;Enquanto a magia durar, você pode direcionar a vinha para atacar a mesma criatura ou outra, usando para isso uma ação bônus em cada um dos seus turnos.",
+         "fonte": "Livro do Jogador, p. 289 (PHB, p. 246)",
+         "srd": false,
+         "versao": 4
+      },
+      {
+         "nome": "Visão da Verdade",
+         "id": 10447,
+         "original": "True Seeing",
+         "fonte": "Livro do Jogador, p. 289 (PHB, p. 284)",
+         "versao": 2
+      },
+      {
+         "nome": "Visão no Escuro",
+         "id": 10448,
+         "original": "Darkvision",
+         "fonte": "Livro do Jogador, p. 289 (PHB, p. 230)",
+         "versao": 3
+      },
+      {
+         "nome": "Vitalidade Vazia",
+         "id": 10449,
+         "original": "False Life",
+         "fonte": "Livro do Jogador, p. 289 (PHB, p. 239)",
+         "versao": 3
+      },
+      {
+         "nome": "Voo",
+         "id": 10450,
+         "original": "Fly",
+         "fonte": "Livro do Jogador, p. 289 (PHB, p. 243)",
+         "versao": 2
+      },
+      {
+         "nome": "Vínculo de Proteção",
+         "id": 10452,
+         "original": "Warding Bond",
+         "fonte": "Livro do Jogador, p. 288 (PHB, p. 287)",
+         "versao": 3
+      },
+      {
+         "nome": "Zombaria Perversa",
+         "id": 10453,
+         "original": "Vicious Mockery",
+         "fonte": "Livro do Jogador, p. 289 (PHB, p. 285)",
+         "versao": 2
+      },
+      {
+         "nome": "Zona da Verdade",
+         "id": 10454,
+         "original": "Zone of Truth",
+         "fonte": "Livro do Jogador, p. 289 (PHB, p. 289)",
+         "versao": 4
+      },
+      {
+         "nome": "Graxa",
+         "id": 10455,
+         "original": "Grease",
+         "fonte": "Livro do Jogador, p. 246 (PHB, p. 246)",
+         "versao": 3
+      },
+      {
+         "nome": "Âncora Planar",
+         "id": 10456,
+         "original": "Planar Binding",
+         "fonte": "Livro do Jogador, p. 213 (PHB, p. 265)",
+         "versao": 2
+      }
+   ]
+}
