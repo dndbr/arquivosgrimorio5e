@@ -1,5 +1,6 @@
 {
-   "fonte": "SCAG",
+   "nome": "Sword Coast Adventurer's Guide",
+   "quantidade": 4,
    "dados": [
       {
          "nome": "Lâmina Estrondosa",
@@ -16,11 +17,11 @@
          "ritual": false,
          "classes": "Bruxo, Feiticeiro, Mago",
          "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
-         "descricao": "Como parte da ação usada para conjurar esta magia, você deve fazer um ataque corpo a corpo com uma arma contra uma criatura dentro do alcance da magia, do contrário a magia falha. Se acertar, o alvo sofre os efeitos normais do ataque e fica envolto em uma energia estrondosa até o começo do próximo turno do conjurador. Se o alvo se mover voluntariamente antes disso, ele imediatamente recebe 1d8 de dano trovejante e a magia encerra.<br>&emsp;O dano da magia aumenta quando você alcança níveis maiores. No 5º nível o ataque corpo a corpo causa um dano extra trovejante de 1d8 ao alvo, e o dano sofrido pelo alvo ao mover-se sobe para 2d8. Ambas rolagens de dados aumentam em 1d8 no 11º nível e no 17º nível.",
-         "fonte": "Sword Coast Adventurer's Guide, p. 142",
-         "srd": false,
-         "roll": "1d8",
-         "versao": 3
+         "descricao": "Como parte da ação usada para conjurar esta magia, você deve fazer um ataque corpo a corpo com uma arma contra uma criatura dentro do alcance da magia, do contrário a magia falha. Se acertar, o alvo sofre os efeitos normais do ataque e fica envolto em uma energia estrondosa até o começo do próximo turno do conjurador. Se o alvo se mover voluntariamente antes disso, ele imediatamente recebe 1d8 de dano trovejante e a magia encerra.",
+         "upcast": "O dano desta magia aumenta quando você alcança níveis maiores. No 5º nível o ataque corpo a corpo causa um dano extra trovejante de 1d8 ao alvo, e o dano sofrido pelo alvo ao mover-se sobe para 2d8. Ambas rolagens de dados aumentam em 1d8 no 11º nível e no 17º nível.",
+         "fonte": "Sword Coast Adventurer's Guide",
+         "pagina": "142",
+         "srd": false
       },
       {
          "nome": "Lâmina Verde Flamejante",
@@ -37,11 +38,11 @@
          "ritual": false,
          "classes": "Bruxo, Feiticeiro, Mago",
          "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
-         "descricao": "Como parte da ação usada para conjurar esta magia, você deve fazer um ataque corpo a corpo com uma arma contra uma criatura dentro do alcance da magia, do contrário a magia falha. Se acertar, o alvo sofre os efeitos normais do ataque e uma chama verde salta do alvo até uma criatura que você possa ver que esteja a 1,5m [5 ft.] dele. A segunda criatura recebe dano de fogo igual ao seu modificador de habilidade de conjuração.<br>&emsp;O dano da magia aumenta quando você alcança níveis maiores. No 5º nível o ataque corpo a corpo causa 1d8 de dano de fogo extra ao alvo, e o dano da segunda criatura sobe para 1d8 + o seu modificador de habilidade de conjuração. Ambas rolagens de dados aumentam em 1d8 no 11º nível e no 17º nível.",
-         "fonte": "Sword Coast Adventurer's Guide, p. 143",
-         "srd": false,
-         "roll": "1d8",
-         "versao": 3
+         "descricao": "Como parte da ação usada para conjurar esta magia, você deve fazer um ataque corpo a corpo com uma arma contra uma criatura dentro do alcance da magia, do contrário a magia falha. Se acertar, o alvo sofre os efeitos normais do ataque e uma chama verde salta do alvo até uma criatura que você possa ver que esteja a 1,5m [5 ft.] dele. A segunda criatura recebe dano de fogo igual ao seu modificador de habilidade de conjuração.",
+         "upcast": "O dano desta magia aumenta quando você alcança níveis maiores. No 5º nível o ataque corpo a corpo causa 1d8 de dano de fogo extra ao alvo, e o dano da segunda criatura sobe para 1d8 + o seu modificador de habilidade de conjuração. Ambas rolagens de dados aumentam em 1d8 no 11º nível e no 17º nível.",
+         "fonte": "Sword Coast Adventurer's Guide",
+         "pagina": "143",
+         "srd": false
       },
       {
          "nome": "Atração Elétrica",
@@ -58,11 +59,11 @@
          "ritual": false,
          "classes": "Bruxo, Feiticeiro, Mago",
          "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
-         "descricao": "Você cria um chicote de energia elétrica que chicoteia uma criatura à sua escolha que você possa ver dentro do alcance. O alvo deve obter sucesso em salvaguarda de Força ou é puxado 3m [10 ft.] em uma linha reta diante de você e então recebe 1d8 de dano elétrico se estiver a 1,5m [5 ft.] de você.<br>&emsp;O dano desta magia aumenta em 1d8 quando você alcança o 5º nível (2d8), 11º nível (3d8) e 17º nível (4d8).",
-         "fonte": "Sword Coast Adventurer's Guide, p. 143",
-         "srd": false,
-         "roll": "1d8",
-         "versao": 3
+         "descricao": "Você cria um chicote de energia elétrica que chicoteia uma criatura à sua escolha que você possa ver dentro do alcance. O alvo deve obter sucesso em salvaguarda de Força ou é puxado 3m [10 ft.] em uma linha reta diante de você e então recebe 1d8 de dano elétrico se estiver a 1,5m [5 ft.] de você.",
+         "upcast": "O dano desta magia aumenta em 1d8 quando você alcança o 5º nível (2d8), 11º nível (3d8) e 17º nível (4d8).",
+         "fonte": "Sword Coast Adventurer's Guide",
+         "pagina": "143",
+         "srd": false
       },
       {
          "nome": "Rebentar de Espadas",
@@ -79,11 +80,11 @@
          "ritual": false,
          "classes": "Bruxo, Feiticeiro, Mago",
          "subclasses": "Guerreiro (Cavaleiro Arcano), Ladino (Trapaceiro Arcano)",
-         "descricao": "Você cria um círculo momentãneo de lâminas espectrais que lhe rodeiam. Cada criatura dentro do alcance, exceto você, precisa obter sucesso em salvaguarda de Destreza ou sofrer 1d6 de dano de energia.<br>&emsp;O dano desta magia aumenta em 1d6 quando você alcança o 5º nível (2d6), 11º nível (3d6) e 17º nível (4d6).",
-         "fonte": "Sword Coast Adventurer's Guide, p. 143",
-         "srd": false,
-         "roll": "1d6",
-         "versao": 4
+         "descricao": "Você cria um círculo momentãneo de lâminas espectrais que lhe rodeiam. Cada criatura dentro do alcance, exceto você, precisa obter sucesso em salvaguarda de Destreza ou sofrer 1d6 de dano de energia.",
+         "upcast": "O dano desta magia aumenta em 1d6 quando você alcança o 5º nível (2d6), 11º nível (3d6) e 17º nível (4d6).",
+         "fonte": "Sword Coast Adventurer's Guide",
+         "pagina": "143",
+         "srd": false
       }
    ]
 }
